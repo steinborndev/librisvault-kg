@@ -1,0 +1,739 @@
+# curie_map:
+#   MONDO: http://purl.obolibrary.org/obo/MONDO_
+#   UMLS: http://identifiers.org/umls/
+#   MESH: http://id.nlm.nih.gov/mesh/
+#   DOID: http://purl.obolibrary.org/obo/DOID_
+#   OMIM: http://omim.org/entry/
+#   skos: http://www.w3.org/2004/02/skos/core#
+#   semapv: https://w3id.org/semapv/vocab/
+# mapping_set_id: urn:librisvault:pharos-harmonisation:ff784dd89ccc
+# mapping_date: 2026-10-06
+# mapping_tool: LibrisVault harmonisation run
+# license: https://creativecommons.org/licenses/by/4.0/
+subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification
+DOID:0080701	Prothrombin thrombophilia	skos:exactMatch	MONDO:0008559	thrombophilia due to thrombin defect	semapv:UnspecifiedMatching
+DOID:12921	childhood-onset schizophrenia	skos:exactMatch	MONDO:0957430	childhood-onset schizophrenia	semapv:UnspecifiedMatching
+DOID:1313	aids wasting syndrome	skos:broadMatch	MONDO:0012268	AIDS	semapv:UnspecifiedMatching
+DOID:13582	hypokalemia	skos:exactMatch	MONDO:0003019	potassium deficiency disease	semapv:UnspecifiedMatching
+DOID:3660	wheat allergy	skos:broadMatch	MONDO:0005271	allergic disease	semapv:UnspecifiedMatching
+DOID:7012	anaplastic thyroid carcinoma	skos:exactMatch	MONDO:0006468	thyroid gland undifferentiated (anaplastic) carcinoma	semapv:UnspecifiedMatching
+DOID:9007	Sudden infant death syndrome	skos:broadMatch	MONDO:1010116	sudden unexpected infant death	semapv:UnspecifiedMatching
+MESH:C535418	Charcot-Marie-Tooth disease, Type 2K	skos:exactMatch	MONDO:0011916	Charcot-Marie-Tooth disease axonal type 2K	semapv:UnspecifiedMatching
+MESH:C536816	Distal myopathy, Nonaka type	skos:exactMatch	MONDO:0011603	GNE myopathy	semapv:UnspecifiedMatching
+MESH:C537048	Allanson Pantzar McLeod syndrome	skos:exactMatch	MONDO:0018945	XK-related neurodegenerative disease	semapv:UnspecifiedMatching
+MESH:C537129	Optic atrophy polyneuropathy deafness	skos:exactMatch	MONDO:0010699	Charcot-Marie-Tooth disease X-linked recessive 5	semapv:UnspecifiedMatching
+MESH:C537944	Amyloidosis, Cerebroarterial, App-Related	skos:exactMatch	MONDO:0011583	cerebral amyloid angiopathy, APP-related	semapv:UnspecifiedMatching
+MESH:C537948	Ceroid lipofuscinosis, neuronal 1, infantile	skos:exactMatch	MONDO:0979339	infantile neuronal ceroid lipofuscinosis 1	semapv:UnspecifiedMatching
+MESH:C538118	Hidradenitis suppurativa, familial	skos:exactMatch	MONDO:0024516	familial acne inversa	semapv:UnspecifiedMatching
+MESH:C538136	Hyperexplexia hereditary	skos:exactMatch	MONDO:0021022	hereditary hyperekplexia	semapv:UnspecifiedMatching
+MESH:C538445	Clear-cell metastatic renal cell carcinoma	skos:broadMatch	MONDO:0005005	clear cell renal carcinoma	semapv:UnspecifiedMatching
+MESH:C538659	Porphyria, South African type	skos:broadMatch	MONDO:0019142	inherited porphyria	semapv:UnspecifiedMatching
+MESH:C554498	AIDS-related Kaposi sarcoma	skos:broadMatch	MONDO:0005055	Kaposi's sarcoma	semapv:UnspecifiedMatching
+MESH:C564330	Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia	skos:exactMatch	MONDO:0011913	Alzheimer disease 3	semapv:UnspecifiedMatching
+MESH:C566025	Leukemia, Megakaryoblastic, of Down Syndrome	skos:exactMatch	MONDO:0020526	acute megakaryoblastic leukemia in down syndrome	semapv:UnspecifiedMatching
+MESH:C566709	Rhabdomyosarcoma, embryonal, 2	skos:exactMatch	MONDO:0859046	rhabdomyosarcoma, embryonal, 2	semapv:UnspecifiedMatching
+MESH:C566857	Ceroid Lipofuscinosis, Neuronal, 2	skos:exactMatch	MONDO:0008769	neuronal ceroid lipofuscinosis 2	semapv:UnspecifiedMatching
+MESH:C566858	Copper-Overload Cirrhosis	skos:closeMatch	MONDO:0016204	idiopathic copper-associated cirrhosis	semapv:UnspecifiedMatching
+MESH:D000022	Abortion, Spontaneous	skos:narrowMatch	MONDO:0006774	habitual spontaneous abortion	semapv:UnspecifiedMatching
+MESH:D000077192	Adenocarcinoma of Lung	skos:exactMatch	MONDO:0005061	lung adenocarcinoma	semapv:UnspecifiedMatching
+MESH:D000077195	Squamous Cell Carcinoma of Head and Neck	skos:exactMatch	MONDO:0010150	head and neck squamous cell carcinoma	semapv:UnspecifiedMatching
+MESH:D000787	Angina Pectoris	skos:narrowMatch	MONDO:0006021	Prinzmetal angina	semapv:UnspecifiedMatching
+MESH:D001049	Apnea	skos:narrowMatch	MONDO:0005296	sleep apnea syndrome	semapv:UnspecifiedMatching
+MESH:D001145	Arrhythmias, Cardiac	skos:exactMatch	MONDO:0007263	cardiac rhythm disease	semapv:UnspecifiedMatching
+MESH:D001157	Arterial Occlusive Diseases	skos:narrowMatch	MONDO:0008889	thromboangiitis obliterans	semapv:UnspecifiedMatching
+MESH:D001284	Atrophy	skos:narrowMatch	MONDO:0004323	muscular atrophy	semapv:UnspecifiedMatching
+MESH:D001848	Bone Diseases, Developmental	skos:exactMatch	MONDO:0005497	bone development disease	semapv:UnspecifiedMatching
+MESH:D001851	Bone Diseases, Metabolic	skos:exactMatch	MONDO:0800486	metabolic bone disorder	semapv:UnspecifiedMatching
+MESH:D002057	Burns, Chemical	skos:broadMatch	MONDO:0043519	burn	semapv:UnspecifiedMatching
+MESH:D002252	Carbon Tetrachloride Poisoning	skos:broadMatch	MONDO:0029000	poisoning	semapv:UnspecifiedMatching
+MESH:D002542	Intracranial Embolism and Thrombosis	skos:narrowMatch	MONDO:0002907	intracranial thrombosis	semapv:UnspecifiedMatching
+MESH:D002869	Chromosome Aberrations	skos:closeMatch	MONDO:0019040	chromosomal disorder	semapv:UnspecifiedMatching
+MESH:D003072	Cognition Disorders	skos:exactMatch	MONDO:0002039	cognitive disorder	semapv:UnspecifiedMatching
+MESH:D003294	Seizures, Febrile	skos:narrowMatch	MONDO:0000032	febrile seizures, familial	semapv:UnspecifiedMatching
+MESH:D003318	Corneal Opacity	skos:broadMatch	MONDO:0000942	corneal disorder	semapv:UnspecifiedMatching
+MESH:D003638	Deafness	skos:exactMatch	MONDO:0005365	hearing loss disorder	semapv:UnspecifiedMatching
+MESH:D003645	Death, Sudden	skos:narrowMatch	MONDO:0054866	sudden arrhythmia death syndrome	semapv:UnspecifiedMatching
+MESH:D004749	Entamoebiasis	skos:narrowMatch	MONDO:0024275	amebic dysentery	semapv:UnspecifiedMatching
+MESH:D004940	Esophageal Stenosis	skos:narrowMatch	MONDO:0957459	congenital esophageal stenosis	semapv:UnspecifiedMatching
+MESH:D006083	Graft Occlusion, Vascular	skos:broadMatch	MONDO:0020672	vascular occlusion disorder	semapv:UnspecifiedMatching
+MESH:D006228	Hand Deformities, Congenital	skos:narrowMatch	MONDO:0017445	acheiria	semapv:UnspecifiedMatching
+MESH:D006261	Headache	skos:closeMatch	MONDO:0021146	headache disorder	semapv:UnspecifiedMatching
+MESH:D006342	Heart Rupture, Post-Infarction	skos:broadMatch	MONDO:0020983	myocardial rupture	semapv:UnspecifiedMatching
+MESH:D006417	Hematuria	skos:narrowMatch	MONDO:0957317	hematuria, benign familial	semapv:UnspecifiedMatching
+MESH:D006937	Hypercholesterolemia	skos:narrowMatch	MONDO:0005439	familial hypercholesterolemia	semapv:UnspecifiedMatching
+MESH:D006940	Hyperemia	skos:narrowMatch	MONDO:0001534	ocular hyperemia	semapv:UnspecifiedMatching
+MESH:D007035	Hypothermia	skos:narrowMatch	MONDO:0017577	spontaneous periodic hypothermia	semapv:UnspecifiedMatching
+MESH:D007235	Infant, Premature, Diseases	skos:narrowMatch	MONDO:0009971	respiratory distress syndrome in premature infants	semapv:UnspecifiedMatching
+MESH:D007239	Infection	skos:exactMatch	MONDO:0005550	infectious disease	semapv:UnspecifiedMatching
+MESH:D007805	Language Development Disorders	skos:narrowMatch	MONDO:0010821	familial developmental dysphasia	semapv:UnspecifiedMatching
+MESH:D008109	Liver Diseases, Parasitic	skos:broadMatch	MONDO:0005135	parasitic infectious disease	semapv:UnspecifiedMatching
+MESH:D008325	Mammary Neoplasms, Experimental	skos:closeMatch	MONDO:0025483	mammary neoplasms, animal	semapv:UnspecifiedMatching
+MESH:D009062	Mouth Neoplasms	skos:exactMatch	MONDO:0021245	oral cavity neoplasm	semapv:UnspecifiedMatching
+MESH:D009175	Mycoplasma Infections	skos:closeMatch	MONDO:1030003	Mycoplasmoides infection	semapv:UnspecifiedMatching
+MESH:D009362	Neoplasm Metastasis	skos:closeMatch	MONDO:0024880	metastatic malignant neoplasm	semapv:UnspecifiedMatching
+MESH:D009389	Neovascularization, Pathologic	skos:narrowMatch	MONDO:0810000	choroidal neovascularization	semapv:UnspecifiedMatching
+MESH:D009410	Nerve Degeneration	skos:closeMatch	MONDO:0005559	neurodegenerative disease	semapv:UnspecifiedMatching
+MESH:D009784	Occupational Diseases	skos:exactMatch	MONDO:0100366	occupational disorder	semapv:UnspecifiedMatching
+MESH:D009999	Ossification, Heterotopic	skos:narrowMatch	MONDO:0008153	progressive osseous heteroplasia	semapv:UnspecifiedMatching
+MESH:D011249	Pregnancy Complications, Cardiovascular	skos:broadMatch	MONDO:0024575	pregnancy disorder	semapv:UnspecifiedMatching
+MESH:D011628	Puberty, Delayed	skos:narrowMatch	MONDO:0859205	delayed puberty, self-limited	semapv:UnspecifiedMatching
+MESH:D012120	Respiration Disorders	skos:broadMatch	MONDO:0005087	respiratory system disorder	semapv:UnspecifiedMatching
+MESH:D012127	Respiratory Distress Syndrome, Newborn	skos:exactMatch	MONDO:0700081	newborn respiratory distress syndrome	semapv:UnspecifiedMatching
+MESH:D012130	Respiratory Hypersensitivity	skos:exactMatch	MONDO:0000771	allergic respiratory disease	semapv:UnspecifiedMatching
+MESH:D012770	Shock, Cardiogenic	skos:exactMatch	MONDO:0800175	cardiogenic shock	semapv:UnspecifiedMatching
+MESH:D012868	Skin Abnormalities	skos:closeMatch	MONDO:0005093	skin disorder	semapv:UnspecifiedMatching
+MESH:D013036	Spasms, Infantile	skos:exactMatch	MONDO:0018097	infantile spasms	semapv:UnspecifiedMatching
+MESH:D013923	Thromboembolism	skos:narrowMatch	MONDO:0005399	venous thromboembolism	semapv:UnspecifiedMatching
+MESH:D014202	Tremor	skos:narrowMatch	MONDO:0003233	essential tremor	semapv:UnspecifiedMatching
+MESH:D015428	Myocardial Reperfusion Injury	skos:broadMatch	MONDO:0005203	ischemia reperfusion injury	semapv:UnspecifiedMatching
+MESH:D015479	Leukemia, Myelomonocytic, Acute	skos:exactMatch	MONDO:0018871	acute myelomonocytic leukemia M4	semapv:UnspecifiedMatching
+MESH:D017566	Microvascular Angina	skos:broadMatch	MONDO:0044875	coronary microvascular disorder	semapv:UnspecifiedMatching
+MESH:D017880	Limb Deformities, Congenital	skos:exactMatch	MONDO:0017427	congenital deformities of limbs	semapv:UnspecifiedMatching
+MESH:D018487	Ventricular Dysfunction, Left	skos:closeMatch	MONDO:0980735	left ventricular failure	semapv:UnspecifiedMatching
+MESH:D018754	Ventricular Dysfunction	skos:narrowMatch	MONDO:0005436	postoperative ventricular dysfunction	semapv:UnspecifiedMatching
+MESH:D018805	Sepsis	skos:closeMatch	MONDO:1040015	infectious disease with sepsis	semapv:UnspecifiedMatching
+MESH:D019080	Cafe-au-Lait Spots	skos:narrowMatch	MONDO:0007245	cafe au lait spots, multiple	semapv:UnspecifiedMatching
+MESH:D019767	Maxillofacial Abnormalities	skos:closeMatch	MONDO:0023369	disorder of facial skeleton	semapv:UnspecifiedMatching
+MESH:D020246	Venous Thrombosis	skos:broadMatch	MONDO:0000831	thrombotic disease	semapv:UnspecifiedMatching
+MESH:D020261	Arsenic Poisoning	skos:broadMatch	MONDO:0029000	poisoning	semapv:UnspecifiedMatching
+MESH:D020268	Alcohol-Induced Disorders, Nervous System	skos:closeMatch	MONDO:0021699	alcohol-induced disorders	semapv:UnspecifiedMatching
+MESH:D020323	Tics	skos:exactMatch	MONDO:0002420	tic disorder	semapv:UnspecifiedMatching
+MESH:D020879	Neuromuscular Manifestations	skos:closeMatch	MONDO:0019056	neuromuscular disease	semapv:UnspecifiedMatching
+MESH:D044342	Malnutrition	skos:broadMatch	MONDO:0005137	nutritional disorder	semapv:UnspecifiedMatching
+MESH:D044903	Congenital Hyperinsulinism	skos:exactMatch	MONDO:0019010	congenital isolated hyperinsulinism	semapv:UnspecifiedMatching
+MESH:D048550	Hepatic Insufficiency	skos:exactMatch	MONDO:0100192	liver failure	semapv:UnspecifiedMatching
+MESH:D048909	Diabetes Complications	skos:narrowMatch	MONDO:0000065	microvascular complications of diabetes, susceptibility	semapv:UnspecifiedMatching
+MESH:D049970	Graves Ophthalmopathy	skos:exactMatch	MONDO:0001509	endocrine exophthalmos	semapv:UnspecifiedMatching
+MESH:D050171	Dyslipidemias	skos:narrowMatch	MONDO:0015905	syndromic dyslipidemia	semapv:UnspecifiedMatching
+MESH:D054198	Precursor Cell Lymphoblastic Leukemia-Lymphoma	skos:exactMatch	MONDO:0003538	precursor lymphoblastic lymphoma/leukemia	semapv:UnspecifiedMatching
+MESH:D054218	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	skos:exactMatch	MONDO:0003537	T lymphoblastic leukemia/lymphoma	semapv:UnspecifiedMatching
+MESH:D055370	Lung Injury	skos:narrowMatch	MONDO:0015796	acute lung injury	semapv:UnspecifiedMatching
+MESH:D056784	Leukoencephalopathies	skos:narrowMatch	MONDO:0800448	leukoencephalopathy with vanishing white matter	semapv:UnspecifiedMatching
+MESH:D056912	Binge-Eating Disorder	skos:exactMatch	MONDO:0005582	binge eating disorder	semapv:UnspecifiedMatching
+MESH:D057174	Frontotemporal Lobar Degeneration	skos:narrowMatch	MONDO:0011842	GRN-related frontotemporal lobar degeneration with Tdp43 inclusions	semapv:UnspecifiedMatching
+MESH:D059606	Polydipsia	skos:closeMatch	MONDO:0040870	primary polydipsia	semapv:UnspecifiedMatching
+MESH:D060825	Cognitive Dysfunction	skos:closeMatch	MONDO:0002039	cognitive disorder	semapv:UnspecifiedMatching
+MESH:D062025	Organophosphate Poisoning	skos:exactMatch	MONDO:0800386	organophosphate poisoning	semapv:UnspecifiedMatching
+MESH:D065666	Mesenteric Ischemia	skos:closeMatch	MONDO:0004622	chronic intestinal vascular insufficiency	semapv:UnspecifiedMatching
+OMIM:272120	Sudden infant death syndrome	skos:closeMatch	MONDO:1010116	sudden unexpected infant death	semapv:UnspecifiedMatching
+OMIM:601367	Ischemic stroke	skos:exactMatch	MONDO:1060198	ischemic stroke	semapv:UnspecifiedMatching
+UMLS:C0000786	Spontaneous abortion	skos:narrowMatch	MONDO:0006774	habitual spontaneous abortion	semapv:UnspecifiedMatching
+UMLS:C0000822	Abortion, Tubal	skos:broadMatch	MONDO:0043762	tubal pregnancy	semapv:UnspecifiedMatching
+UMLS:C0001723	Affective Disorders, Psychotic	skos:broadMatch	MONDO:0005485	psychotic disorder	semapv:UnspecifiedMatching
+UMLS:C0001787	Osteoporosis, Age-Related	skos:broadMatch	MONDO:0005298	osteoporosis	semapv:UnspecifiedMatching
+UMLS:C0001956	Alcohol Use Disorder	skos:closeMatch	MONDO:0007079	alcohol dependence	semapv:UnspecifiedMatching
+UMLS:C0002152	Alloxan Diabetes	skos:exactMatch	MONDO:1011712	alloxan-diabetes, non-human animal	semapv:UnspecifiedMatching
+UMLS:C0002622	Amnesia	skos:exactMatch	MONDO:0001152	amnestic disorder	semapv:UnspecifiedMatching
+UMLS:C0002879	Anemia, Hemolytic, Acquired	skos:narrowMatch	MONDO:0020108	autoimmune hemolytic anemia	semapv:UnspecifiedMatching
+UMLS:C0003756	Arenaviridae Infections	skos:exactMatch	MONDO:0005650	Arenaviridae infectious disease	semapv:UnspecifiedMatching
+UMLS:C0003838	Arterial Occlusive Diseases	skos:closeMatch	MONDO:0005294	peripheral vascular disease	semapv:UnspecifiedMatching
+UMLS:C0004403	Autosome Abnormalities	skos:closeMatch	MONDO:0020049	autosomal anomaly	semapv:UnspecifiedMatching
+UMLS:C0005138	Berylliosis	skos:exactMatch	MONDO:0015274	chronic beryllium disease	semapv:UnspecifiedMatching
+UMLS:C0005967	Bone neoplasms	skos:exactMatch	MONDO:0019060	bone neoplasm	semapv:UnspecifiedMatching
+UMLS:C0006434	Burn injury	skos:exactMatch	MONDO:0043519	burn	semapv:UnspecifiedMatching
+UMLS:C0006435	Chemical Burns	skos:broadMatch	MONDO:0043519	burn	semapv:UnspecifiedMatching
+UMLS:C0006852	Candidiasis of vagina	skos:broadMatch	MONDO:0006014	vulvovaginal candidiasis	semapv:UnspecifiedMatching
+UMLS:C0006868	Cannabis Abuse	skos:closeMatch	MONDO:0005689	cannabis dependence	semapv:UnspecifiedMatching
+UMLS:C0007781	Intracranial Embolism and Thrombosis	skos:narrowMatch	MONDO:0002907	intracranial thrombosis	semapv:UnspecifiedMatching
+UMLS:C0008073	Developmental Disabilities	skos:exactMatch	MONDO:0005287	developmental disability	semapv:UnspecifiedMatching
+UMLS:C0008149	Chlamydia Infections	skos:exactMatch	MONDO:0021697	chlamydia infectious disease	semapv:UnspecifiedMatching
+UMLS:C0008625	Chromosome Aberrations	skos:closeMatch	MONDO:0019040	chromosomal disorder	semapv:UnspecifiedMatching
+UMLS:C0010068	Coronary heart disease	skos:exactMatch	MONDO:0005010	coronary artery disorder	semapv:UnspecifiedMatching
+UMLS:C0011052	Prelingual Deafness	skos:closeMatch	MONDO:0016297	prelingual non-syndromic genetic hearing loss	semapv:UnspecifiedMatching
+UMLS:C0011053	Deafness	skos:exactMatch	MONDO:0005365	hearing loss disorder	semapv:UnspecifiedMatching
+UMLS:C0011071	Sudden death	skos:narrowMatch	MONDO:0054866	sudden arrhythmia death syndrome	semapv:UnspecifiedMatching
+UMLS:C0011265	Presenile dementia	skos:broadMatch	MONDO:0001627	dementia	semapv:UnspecifiedMatching
+UMLS:C0011570	Mental Depression	skos:exactMatch	MONDO:0002050	depressive disorder	semapv:UnspecifiedMatching
+UMLS:C0011574	Involutional Depression	skos:broadMatch	MONDO:0002050	depressive disorder	semapv:UnspecifiedMatching
+UMLS:C0011991	Diarrhea	skos:exactMatch	MONDO:0001673	diarrheal disease	semapv:UnspecifiedMatching
+UMLS:C0013146	Drug abuse	skos:exactMatch	MONDO:0002491	substance abuse	semapv:UnspecifiedMatching
+UMLS:C0013170	Drug habituation	skos:closeMatch	MONDO:0005303	drug dependence	semapv:UnspecifiedMatching
+UMLS:C0013222	Drug Use Disorders	skos:narrowMatch	MONDO:0005303	drug dependence	semapv:UnspecifiedMatching
+UMLS:C0013366	Dyschondroplasias	skos:narrowMatch	MONDO:0008145	Ollier disease	semapv:UnspecifiedMatching
+UMLS:C0013990	Pathological accumulation of air in tissues	skos:narrowMatch	MONDO:0004849	pulmonary emphysema	semapv:UnspecifiedMatching
+UMLS:C0014324	Entamoebiasis	skos:narrowMatch	MONDO:0024275	amebic dysentery	semapv:UnspecifiedMatching
+UMLS:C0014476	Eperythrozoonosis	skos:exactMatch	MONDO:1016762	eperythrozoonosis, non-human animal	semapv:UnspecifiedMatching
+UMLS:C0014558	Uncinate Epilepsy	skos:broadMatch	MONDO:0005027	epilepsy	semapv:UnspecifiedMatching
+UMLS:C0014849	Esophageal and Gastric Varices	skos:narrowMatch	MONDO:0001221	esophageal varices	semapv:UnspecifiedMatching
+UMLS:C0014866	Esophageal Stenosis	skos:narrowMatch	MONDO:0957459	congenital esophageal stenosis	semapv:UnspecifiedMatching
+UMLS:C0015371	Extrapyramidal Disorders	skos:exactMatch	MONDO:0001815	extrapyramidal and movement disease	semapv:UnspecifiedMatching
+UMLS:C0015695	Fatty Liver	skos:exactMatch	MONDO:0004790	fatty liver disease	semapv:UnspecifiedMatching
+UMLS:C0017178	Gastrointestinal Diseases	skos:exactMatch	MONDO:0004335	digestive system disorder	semapv:UnspecifiedMatching
+UMLS:C0017667	Nodular glomerulosclerosis	skos:broadMatch	MONDO:0000490	glomerulosclerosis	semapv:UnspecifiedMatching
+UMLS:C0018128	Graft Occlusion, Vascular	skos:broadMatch	MONDO:0020672	vascular occlusion disorder	semapv:UnspecifiedMatching
+UMLS:C0018566	Congenital Hand Deformities	skos:broadMatch	MONDO:0019054	congenital limb malformation	semapv:UnspecifiedMatching
+UMLS:C0018614	Hashish Abuse	skos:broadMatch	MONDO:0002491	substance abuse	semapv:UnspecifiedMatching
+UMLS:C0018675	Head Neoplasms	skos:broadMatch	MONDO:0005586	head and neck neoplasm	semapv:UnspecifiedMatching
+UMLS:C0018681	Headache	skos:closeMatch	MONDO:0021146	headache disorder	semapv:UnspecifiedMatching
+UMLS:C0018798	Congenital Heart Defects	skos:exactMatch	MONDO:0005453	congenital heart disease	semapv:UnspecifiedMatching
+UMLS:C0018814	Heart Rupture, Post-Infarction	skos:broadMatch	MONDO:0020983	myocardial rupture	semapv:UnspecifiedMatching
+UMLS:C0018965	Hematuria	skos:narrowMatch	MONDO:0957317	hematuria, benign familial	semapv:UnspecifiedMatching
+UMLS:C0018984	Hemicrania migraine	skos:closeMatch	MONDO:0005277	migraine disorder	semapv:UnspecifiedMatching
+UMLS:C0018995	Hemochromatosis	skos:closeMatch	MONDO:0006507	hereditary hemochromatosis	semapv:UnspecifiedMatching
+UMLS:C0019189	Hepatitis, Chronic	skos:broadMatch	MONDO:0002251	hepatitis	semapv:UnspecifiedMatching
+UMLS:C0019193	Hepatitis, Toxic	skos:closeMatch	MONDO:0005359	drug-induced liver injury	semapv:UnspecifiedMatching
+UMLS:C0019284	Diaphragmatic Hernia	skos:narrowMatch	MONDO:0005711	congenital diaphragmatic hernia	semapv:UnspecifiedMatching
+UMLS:C0020443	Hypercholesterolemia	skos:narrowMatch	MONDO:0005439	familial hypercholesterolemia	semapv:UnspecifiedMatching
+UMLS:C0020452	Hyperemia	skos:narrowMatch	MONDO:0001534	ocular hyperemia	semapv:UnspecifiedMatching
+UMLS:C0020500	Hyperoxaluria	skos:narrowMatch	MONDO:0002474	primary hyperoxaluria	semapv:UnspecifiedMatching
+UMLS:C0020529	Hypersomnia with Periodic Respiration	skos:exactMatch	MONDO:0005296	sleep apnea syndrome	semapv:UnspecifiedMatching
+UMLS:C0020621	hypokalemia	skos:exactMatch	MONDO:0003019	potassium deficiency disease	semapv:UnspecifiedMatching
+UMLS:C0021367	Mammary Ductal Carcinoma	skos:closeMatch	MONDO:0005590	breast ductal adenocarcinoma	semapv:UnspecifiedMatching
+UMLS:C0021655	Insulin Resistance	skos:narrowMatch	MONDO:0012520	insulin-resistance syndrome type A	semapv:UnspecifiedMatching
+UMLS:C0022333	Jacksonian Seizure	skos:broadMatch	MONDO:0005027	epilepsy	semapv:UnspecifiedMatching
+UMLS:C0022660	Kidney Failure, Acute	skos:exactMatch	MONDO:0002492	acute kidney injury	semapv:UnspecifiedMatching
+UMLS:C0022976	Lameness, Animal	skos:exactMatch	MONDO:0024953	lameness, non-human animal	semapv:UnspecifiedMatching
+UMLS:C0023014	Language Development Disorders	skos:narrowMatch	MONDO:0010821	familial developmental dysphasia	semapv:UnspecifiedMatching
+UMLS:C0023186	Learning Disorders	skos:exactMatch	MONDO:0004681	learning disability	semapv:UnspecifiedMatching
+UMLS:C0023453	Leukemia, Lymphocytic, Acute, L2	skos:broadMatch	MONDO:0004967	acute lymphoblastic leukemia	semapv:UnspecifiedMatching
+UMLS:C0023897	Liver Diseases, Parasitic	skos:broadMatch	MONDO:0005135	parasitic infectious disease	semapv:UnspecifiedMatching
+UMLS:C0024667	Animal Mammary Neoplasms	skos:exactMatch	MONDO:0025483	mammary neoplasms, animal	semapv:UnspecifiedMatching
+UMLS:C0024668	Mammary Neoplasms, Experimental	skos:closeMatch	MONDO:0025483	mammary neoplasms, animal	semapv:UnspecifiedMatching
+UMLS:C0024799	Marginal ulcer	skos:exactMatch	MONDO:0001155	gastrojejunal ulcer	semapv:UnspecifiedMatching
+UMLS:C0024809	Marijuana Abuse	skos:closeMatch	MONDO:0005689	cannabis dependence	semapv:UnspecifiedMatching
+UMLS:C0026936	Mycoplasma Infections	skos:narrowMatch	MONDO:1030003	Mycoplasmoides infection	semapv:UnspecifiedMatching
+UMLS:C0027022	Myeloproliferative disease	skos:exactMatch	MONDO:0020076	myeloproliferative neoplasm	semapv:UnspecifiedMatching
+UMLS:C0027055	Myocardial Reperfusion Injury	skos:broadMatch	MONDO:0005203	ischemia reperfusion injury	semapv:UnspecifiedMatching
+UMLS:C0027412	Opioid-Related Disorders	skos:narrowMatch	MONDO:0005530	opiate dependence	semapv:UnspecifiedMatching
+UMLS:C0027627	Neoplasm Metastasis	skos:closeMatch	MONDO:0024880	metastatic malignant neoplasm	semapv:UnspecifiedMatching
+UMLS:C0027671	Neoplastic Processes	skos:exactMatch	MONDO:0005070	neoplasm	semapv:UnspecifiedMatching
+UMLS:C0027686	Pathologic Neovascularization	skos:narrowMatch	MONDO:0810000	choroidal neovascularization	semapv:UnspecifiedMatching
+UMLS:C0027773	Nesidioblastosis	skos:exactMatch	MONDO:0007834	islet cell adenomatosis	semapv:UnspecifiedMatching
+UMLS:C0029227	Delirium, Dementia, Amnestic, Cognitive Disorders	skos:closeMatch	MONDO:0002039	cognitive disorder	semapv:UnspecifiedMatching
+UMLS:C0029230	Organic Mental Disorders, Psychotic	skos:broadMatch	MONDO:0005485	psychotic disorder	semapv:UnspecifiedMatching
+UMLS:C0029231	Organic Mental Disorders, Substance-Induced	skos:closeMatch	MONDO:0001423	drug-induced mental disorder	semapv:UnspecifiedMatching
+UMLS:C0029396	Heterotopic Ossification	skos:narrowMatch	MONDO:0008153	progressive osseous heteroplasia	semapv:UnspecifiedMatching
+UMLS:C0029459	Osteoporosis, Senile	skos:broadMatch	MONDO:0005298	osteoporosis	semapv:UnspecifiedMatching
+UMLS:C0032963	Pregnancy Complications, Cardiovascular	skos:broadMatch	MONDO:0024575	pregnancy disorder	semapv:UnspecifiedMatching
+UMLS:C0033943	Psychoses, Traumatic	skos:broadMatch	MONDO:0005485	psychotic disorder	semapv:UnspecifiedMatching
+UMLS:C0033958	Psychosis, Brief Reactive	skos:broadMatch	MONDO:0005485	psychotic disorder	semapv:UnspecifiedMatching
+UMLS:C0034012	Delayed Puberty	skos:narrowMatch	MONDO:0859205	delayed puberty, self-limited	semapv:UnspecifiedMatching
+UMLS:C0034933	Reflex, Abnormal	skos:narrowMatch	MONDO:0007774	hyperreflexia	semapv:UnspecifiedMatching
+UMLS:C0035126	Reperfusion Injury	skos:exactMatch	MONDO:0005203	ischemia reperfusion injury	semapv:UnspecifiedMatching
+UMLS:C0035228	Respiratory Hypersensitivity	skos:closeMatch	MONDO:0000771	allergic respiratory disease	semapv:UnspecifiedMatching
+UMLS:C0035242	Respiratory Tract Diseases	skos:exactMatch	MONDO:0005087	respiratory system disorder	semapv:UnspecifiedMatching
+UMLS:C0036344	Schizophrenia, Catatonic	skos:broadMatch	MONDO:0005090	schizophrenia	semapv:UnspecifiedMatching
+UMLS:C0036529	Myocardial Diseases, Secondary	skos:broadMatch	MONDO:0004994	cardiomyopathy	semapv:UnspecifiedMatching
+UMLS:C0036572	Seizures	skos:closeMatch	MONDO:0005027	epilepsy	semapv:UnspecifiedMatching
+UMLS:C0036875	Disorders of Sex Development	skos:exactMatch	MONDO:0002145	disorder of sexual differentiation	semapv:UnspecifiedMatching
+UMLS:C0036902	Sexual Arousal Disorder	skos:broadMatch	MONDO:0000595	sexual disorder	semapv:UnspecifiedMatching
+UMLS:C0037268	Skin Abnormalities	skos:closeMatch	MONDO:0005093	skin disorder	semapv:UnspecifiedMatching
+UMLS:C0037929	Spinal Cord Injuries	skos:exactMatch	MONDO:0043797	spinal cord injury	semapv:UnspecifiedMatching
+UMLS:C0038002	Splenomegaly	skos:narrowMatch	MONDO:0037251	congestive splenomegaly	semapv:UnspecifiedMatching
+UMLS:C0038279	Sterility, Postpartum	skos:broadMatch	MONDO:0021124	female infertility	semapv:UnspecifiedMatching
+UMLS:C0038586	Substance Use Disorders	skos:closeMatch	MONDO:0002494	substance-related disorder	semapv:UnspecifiedMatching
+UMLS:C0038644	Sudden infant death syndrome	skos:broadMatch	MONDO:1010116	sudden unexpected infant death	semapv:UnspecifiedMatching
+UMLS:C0038870	Neuralgia, Supraorbital	skos:broadMatch	MONDO:0021667	neuralgia	semapv:UnspecifiedMatching
+UMLS:C0040038	Thromboembolism	skos:narrowMatch	MONDO:0005399	venous thromboembolism	semapv:UnspecifiedMatching
+UMLS:C0040332	Tobacco Dependence	skos:exactMatch	MONDO:0008575	nicotine dependence	semapv:UnspecifiedMatching
+UMLS:C0040336	Tobacco Use Disorder	skos:exactMatch	MONDO:0008575	nicotine dependence	semapv:UnspecifiedMatching
+UMLS:C0040822	Tremor	skos:narrowMatch	MONDO:0003233	essential tremor	semapv:UnspecifiedMatching
+UMLS:C0041671	Attention Deficit Disorder	skos:exactMatch	MONDO:0005302	attention deficit hyperactivity disorder, inattentive type	semapv:UnspecifiedMatching
+UMLS:C0041696	Unipolar Depression	skos:exactMatch	MONDO:0002009	major depressive disorder	semapv:UnspecifiedMatching
+UMLS:C0042331	Migraine Variant	skos:broadMatch	MONDO:0005277	migraine disorder	semapv:UnspecifiedMatching
+UMLS:C0042386	Vasculitis, Hemorrhagic	skos:broadMatch	MONDO:0018882	vasculitis	semapv:UnspecifiedMatching
+UMLS:C0042487	Venous Thrombosis	skos:broadMatch	MONDO:0000831	thrombotic disease	semapv:UnspecifiedMatching
+UMLS:C0042656	Neuralgia, Vidian	skos:broadMatch	MONDO:0021667	neuralgia	semapv:UnspecifiedMatching
+UMLS:C0043250	Injury wounds	skos:exactMatch	MONDO:0021178	injury	semapv:UnspecifiedMatching
+UMLS:C0043251	Wounds and Injuries	skos:exactMatch	MONDO:0021178	injury	semapv:UnspecifiedMatching
+UMLS:C0079487	Helicobacter Infections	skos:narrowMatch	MONDO:0006781	Helicobacter pylori infectious disease	semapv:UnspecifiedMatching
+UMLS:C0079740	High Grade Lymphoma (neoplasm)	skos:narrowMatch	MONDO:0044889	high grade B-cell lymphoma	semapv:UnspecifiedMatching
+UMLS:C0079745	Lymphoma, Large-Cell, Follicular	skos:broadMatch	MONDO:0018906	follicular lymphoma	semapv:UnspecifiedMatching
+UMLS:C0079758	Lymphoma, Mixed-Cell, Follicular	skos:broadMatch	MONDO:0018906	follicular lymphoma	semapv:UnspecifiedMatching
+UMLS:C0079765	Lymphoma, Small Cleaved-Cell, Follicular	skos:broadMatch	MONDO:0018906	follicular lymphoma	semapv:UnspecifiedMatching
+UMLS:C0079770	Lymphoma, Small Noncleaved-Cell	skos:narrowMatch	MONDO:0007243	Burkitt lymphoma	semapv:UnspecifiedMatching
+UMLS:C0085602	Polydipsia	skos:narrowMatch	MONDO:0040870	primary polydipsia	semapv:UnspecifiedMatching
+UMLS:C0085742	Injuries, Acute Brain	skos:closeMatch	MONDO:0043510	brain injury	semapv:UnspecifiedMatching
+UMLS:C0085997	Child Development Disorders, Specific	skos:closeMatch	MONDO:0000592	specific developmental disorder	semapv:UnspecifiedMatching
+UMLS:C0086132	Depressive Symptoms	skos:closeMatch	MONDO:0002050	depressive disorder	semapv:UnspecifiedMatching
+UMLS:C0086133	Depressive Syndrome	skos:exactMatch	MONDO:0002050	depressive disorder	semapv:UnspecifiedMatching
+UMLS:C0086189	Drug Withdrawal Symptoms	skos:exactMatch	MONDO:0005567	substance withdrawal syndrome	semapv:UnspecifiedMatching
+UMLS:C0086196	Eczema, Infantile	skos:broadMatch	MONDO:0004980	atopic eczema	semapv:UnspecifiedMatching
+UMLS:C0086236	Epilepsy, Atonic	skos:broadMatch	MONDO:0005027	epilepsy	semapv:UnspecifiedMatching
+UMLS:C0086237	Epilepsy, Cryptogenic	skos:narrowMatch	MONDO:0015585	cryptogenic late-onset epileptic spasms	semapv:UnspecifiedMatching
+UMLS:C0086241	Epilepsy, Tonic	skos:broadMatch	MONDO:0005027	epilepsy	semapv:UnspecifiedMatching
+UMLS:C0086395	Hearing Loss, Extreme	skos:broadMatch	MONDO:0005365	hearing loss disorder	semapv:UnspecifiedMatching
+UMLS:C0086468	Prenatal Injuries	skos:broadMatch	MONDO:0021178	injury	semapv:UnspecifiedMatching
+UMLS:C0086540	Leishmaniasis, New World	skos:broadMatch	MONDO:0011989	leishmaniasis	semapv:UnspecifiedMatching
+UMLS:C0086541	Urban cutaneous leishmaniasis	skos:broadMatch	MONDO:0005446	cutaneous leishmaniasis	semapv:UnspecifiedMatching
+UMLS:C0086664	Myelocele	skos:exactMatch	MONDO:0019773	myelomeningocele	semapv:UnspecifiedMatching
+UMLS:C0086666	Myocardial Preinfarction Syndrome	skos:exactMatch	MONDO:0006805	intermediate coronary syndrome	semapv:UnspecifiedMatching
+UMLS:C0086769	Panic Attacks	skos:closeMatch	MONDO:0005383	panic disorder	semapv:UnspecifiedMatching
+UMLS:C0086922	Rheumatoid Purpura	skos:exactMatch	MONDO:0019167	immunoglobulin A vasculitis	semapv:UnspecifiedMatching
+UMLS:C0087031	Juvenile-Onset Still Disease	skos:exactMatch	MONDO:0019434	systemic-onset juvenile idiopathic arthritis	semapv:UnspecifiedMatching
+UMLS:C0087086	Thrombus	skos:closeMatch	MONDO:0000831	thrombotic disease	semapv:UnspecifiedMatching
+UMLS:C0087169	Withdrawal Symptoms	skos:closeMatch	MONDO:0005567	substance withdrawal syndrome	semapv:UnspecifiedMatching
+UMLS:C0149504	Encephalopathy, Toxic	skos:exactMatch	MONDO:0005527	toxic encephalopathy	semapv:UnspecifiedMatching
+UMLS:C0149519	Chronic Persistent Hepatitis	skos:broadMatch	MONDO:0002251	hepatitis	semapv:UnspecifiedMatching
+UMLS:C0149745	Oral Ulcer	skos:broadMatch	MONDO:0043839	ulcer disease	semapv:UnspecifiedMatching
+UMLS:C0149781	Spontaneous pneumothorax	skos:broadMatch	MONDO:0002076	pneumothorax	semapv:UnspecifiedMatching
+UMLS:C0149871	Deep Vein Thrombosis	skos:broadMatch	MONDO:0000831	thrombotic disease	semapv:UnspecifiedMatching
+UMLS:C0149958	Complex partial seizures	skos:closeMatch	MONDO:0006710	complex partial epilepsy	semapv:UnspecifiedMatching
+UMLS:C0151603	Anasarca	skos:narrowMatch	MONDO:0015193	hydrops fetalis	semapv:UnspecifiedMatching
+UMLS:C0154659	Toxic Encephalitis	skos:broadMatch	MONDO:0019956	encephalitis	semapv:UnspecifiedMatching
+UMLS:C0162351	Contact hypersensitivity	skos:closeMatch	MONDO:0005480	contact dermatitis	semapv:UnspecifiedMatching
+UMLS:C0162429	Malnutrition	skos:closeMatch	MONDO:0006873	nutritional deficiency disease	semapv:UnspecifiedMatching
+UMLS:C0162668	Megaconial Myopathies	skos:exactMatch	MONDO:0011246	megaconial type congenital muscular dystrophy	semapv:UnspecifiedMatching
+UMLS:C0162669	Pleoconial Myopathies	skos:narrowMatch	MONDO:0009886	pleoconial myopathy with salt craving	semapv:UnspecifiedMatching
+UMLS:C0178324	Vascular System Injuries	skos:broadMatch	MONDO:0021178	injury	semapv:UnspecifiedMatching
+UMLS:C0178540	Cerebral Hypoxia-Ischemia	skos:exactMatch	MONDO:0006685	brain hypoxia - ischemia	semapv:UnspecifiedMatching
+UMLS:C0205641	Adenocarcinoma, Basal Cell	skos:narrowMatch	MONDO:0006402	salivary gland basal cell adenocarcinoma	semapv:UnspecifiedMatching
+UMLS:C0205642	Adenocarcinoma, Oxyphilic	skos:narrowMatch	MONDO:0004019	oxyphilic endometrial endometrioid adenocarcinoma	semapv:UnspecifiedMatching
+UMLS:C0205649	Adenoma, Monomorphic	skos:broadMatch	MONDO:0004972	adenoma	semapv:UnspecifiedMatching
+UMLS:C0205651	Adenoma, Trabecular	skos:narrowMatch	MONDO:0003806	thyroid hyalinizing trabecular adenoma	semapv:UnspecifiedMatching
+UMLS:C0205671	Infections, Arenavirus	skos:exactMatch	MONDO:0005650	Arenaviridae infectious disease	semapv:UnspecifiedMatching
+UMLS:C0205696	Anaplastic carcinoma	skos:exactMatch	MONDO:0005617	undifferentiated carcinoma	semapv:UnspecifiedMatching
+UMLS:C0205699	Carcinomatosis	skos:narrowMatch	MONDO:0700336	peritoneal carcinomatosis	semapv:UnspecifiedMatching
+UMLS:C0205734	Diabetes, Autoimmune	skos:broadMatch	MONDO:0005015	diabetes mellitus	semapv:UnspecifiedMatching
+UMLS:C0206061	Pneumonia, Interstitial	skos:narrowMatch	MONDO:0002429	idiopathic interstitial pneumonia	semapv:UnspecifiedMatching
+UMLS:C0221021	Microangiopathic hemolytic anemia	skos:broadMatch	MONDO:0003664	hemolytic anemia	semapv:UnspecifiedMatching
+UMLS:C0221204	Lytic lesion	skos:narrowMatch	MONDO:0043731	lytic metastatic bone lesion	semapv:UnspecifiedMatching
+UMLS:C0221227	Centriacinar Emphysema	skos:broadMatch	MONDO:0004849	pulmonary emphysema	semapv:UnspecifiedMatching
+UMLS:C0221263	Cafe-au-Lait Spots	skos:narrowMatch	MONDO:0007245	cafe au lait spots, multiple	semapv:UnspecifiedMatching
+UMLS:C0221765	Chronic schizophrenia	skos:broadMatch	MONDO:0005090	schizophrenia	semapv:UnspecifiedMatching
+UMLS:C0233750	Hysterical amnesia	skos:exactMatch	MONDO:0001185	dissociative amnesia	semapv:UnspecifiedMatching
+UMLS:C0233794	Memory impairment	skos:closeMatch	MONDO:0001152	amnestic disorder	semapv:UnspecifiedMatching
+UMLS:C0234249	Neuralgia, Stump	skos:broadMatch	MONDO:0021667	neuralgia	semapv:UnspecifiedMatching
+UMLS:C0234535	Seizures, Clonic	skos:broadMatch	MONDO:0005027	epilepsy	semapv:UnspecifiedMatching
+UMLS:C0235032	Neurotoxicity Syndromes	skos:narrowMatch	MONDO:0005527	toxic encephalopathy	semapv:UnspecifiedMatching
+UMLS:C0236733	Amphetamine-Related Disorders	skos:narrowMatch	MONDO:0003969	amphetamine abuse	semapv:UnspecifiedMatching
+UMLS:C0236735	Cannabis-Related Disorder	skos:narrowMatch	MONDO:0005689	cannabis dependence	semapv:UnspecifiedMatching
+UMLS:C0236736	Cocaine-Related Disorders	skos:narrowMatch	MONDO:0004456	cocaine abuse	semapv:UnspecifiedMatching
+UMLS:C0236742	Phencyclidine-Related Disorders	skos:narrowMatch	MONDO:0005912	phencyclidine abuse	semapv:UnspecifiedMatching
+UMLS:C0236804	Amphetamine Addiction	skos:broadMatch	MONDO:0005303	drug dependence	semapv:UnspecifiedMatching
+UMLS:C0238281	Middle Cerebral Artery Syndrome	skos:closeMatch	MONDO:0006857	middle cerebral artery infarction	semapv:UnspecifiedMatching
+UMLS:C0239946	Fibrosis, Liver	skos:exactMatch	MONDO:0100430	fibrotic liver disease	semapv:UnspecifiedMatching
+UMLS:C0241397	Triphalangeal thumb	skos:closeMatch	MONDO:0008270	polydactyly of a triphalangeal thumb	semapv:UnspecifiedMatching
+UMLS:C0241832	Cerebrovascular Insufficiency	skos:closeMatch	MONDO:0005299	brain ischemia	semapv:UnspecifiedMatching
+UMLS:C0242461	Purpura, Nonthrombocytopenic	skos:narrowMatch	MONDO:0006792	hyperglobulinemic purpura	semapv:UnspecifiedMatching
+UMLS:C0242583	Bare Lymphocyte Syndrome	skos:exactMatch	MONDO:0008855	MHC class II deficiency	semapv:UnspecifiedMatching
+UMLS:C0243026	Sepsis	skos:closeMatch	MONDO:1040015	infectious disease with sepsis	semapv:UnspecifiedMatching
+UMLS:C0262497	Global Amnesia	skos:closeMatch	MONDO:0001617	transient global amnesia	semapv:UnspecifiedMatching
+UMLS:C0263477	Female pattern alopecia (disorder)	skos:broadMatch	MONDO:0005339	androgenetic alopecia	semapv:UnspecifiedMatching
+UMLS:C0263984	Polymyositis Ossificans	skos:closeMatch	MONDO:0003964	myositis ossificans	semapv:UnspecifiedMatching
+UMLS:C0264393	Panacinar Emphysema	skos:broadMatch	MONDO:0004849	pulmonary emphysema	semapv:UnspecifiedMatching
+UMLS:C0264558	Tension Pneumothorax	skos:narrowMatch	MONDO:0002075	spontaneous tension pneumothorax	semapv:UnspecifiedMatching
+UMLS:C0265110	Cerebral Vasospasm	skos:closeMatch	MONDO:0006812	intracranial vasospasm	semapv:UnspecifiedMatching
+UMLS:C0265699	Congenital hernia of foramen of Morgagni	skos:broadMatch	MONDO:0005711	congenital diaphragmatic hernia	semapv:UnspecifiedMatching
+UMLS:C0265700	Congenital hernia of foramen of Bochdalek	skos:broadMatch	MONDO:0005711	congenital diaphragmatic hernia	semapv:UnspecifiedMatching
+UMLS:C0266470	Cerebellar Hypoplasia	skos:closeMatch	MONDO:0008939	isolated cerebellar hypoplasia/agenesis	semapv:UnspecifiedMatching
+UMLS:C0266483	Pachygyria	skos:closeMatch	MONDO:0018838	lissencephaly spectrum disorders	semapv:UnspecifiedMatching
+UMLS:C0268379	Pseudocholinesterase deficiency	skos:exactMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C0270192	Perinatal Subarachnoid Hemorrhage	skos:broadMatch	MONDO:0005099	subarachnoid hemorrhage	semapv:UnspecifiedMatching
+UMLS:C0270458	Severe major depression with psychotic features	skos:broadMatch	MONDO:0002009	major depressive disorder	semapv:UnspecifiedMatching
+UMLS:C0270611	Brain Injuries	skos:exactMatch	MONDO:0043510	brain injury	semapv:UnspecifiedMatching
+UMLS:C0270715	Degenerative Diseases, Central Nervous System	skos:closeMatch	MONDO:0005559	neurodegenerative disease	semapv:UnspecifiedMatching
+UMLS:C0270844	Tonic Seizures	skos:broadMatch	MONDO:0005027	epilepsy	semapv:UnspecifiedMatching
+UMLS:C0270854	Symptomatic Generalized Epilepsy	skos:broadMatch	MONDO:0100574	generalized epilepsy	semapv:UnspecifiedMatching
+UMLS:C0270858	Abdominal Migraine	skos:broadMatch	MONDO:0005277	migraine disorder	semapv:UnspecifiedMatching
+UMLS:C0270948	Neurogenic Muscular Atrophy	skos:closeMatch	MONDO:0004323	muscular atrophy	semapv:UnspecifiedMatching
+UMLS:C0271148	Secondary Open Angle Glaucoma	skos:broadMatch	MONDO:0005338	open-angle glaucoma	semapv:UnspecifiedMatching
+UMLS:C0271673	Symmetric Diabetic Proximal Motor Neuropathy	skos:broadMatch	MONDO:0006626	diabetic neuropathy	semapv:UnspecifiedMatching
+UMLS:C0271674	Asymmetric Diabetic Proximal Motor Neuropathy	skos:broadMatch	MONDO:0006626	diabetic neuropathy	semapv:UnspecifiedMatching
+UMLS:C0271678	Diabetic Mononeuropathy	skos:broadMatch	MONDO:0001397	mononeuropathy	semapv:UnspecifiedMatching
+UMLS:C0271685	Diabetic Amyotrophy	skos:broadMatch	MONDO:0006626	diabetic neuropathy	semapv:UnspecifiedMatching
+UMLS:C0271689	Insulin Receptor, Defect in	skos:closeMatch	MONDO:0009517	Donohue syndrome	semapv:UnspecifiedMatching
+UMLS:C0271708	Fasting Hypoglycemia	skos:broadMatch	MONDO:0004946	hypoglycemia	semapv:UnspecifiedMatching
+UMLS:C0271710	Reactive hypoglycemia	skos:broadMatch	MONDO:0004946	hypoglycemia	semapv:UnspecifiedMatching
+UMLS:C0271713	Ketotic hypoglycemia	skos:broadMatch	MONDO:0004946	hypoglycemia	semapv:UnspecifiedMatching
+UMLS:C0271979	Thalassemia Intermedia	skos:closeMatch	MONDO:0016487	beta-thalassemia intermedia	semapv:UnspecifiedMatching
+UMLS:C0273115	Lung Injury	skos:narrowMatch	MONDO:0015796	acute lung injury	semapv:UnspecifiedMatching
+UMLS:C0274861	Arsenic Poisoning, Inorganic	skos:broadMatch	MONDO:0029000	poisoning	semapv:UnspecifiedMatching
+UMLS:C0274862	Nervous System, Organic Arsenic Poisoning	skos:broadMatch	MONDO:0005071	nervous system disorder	semapv:UnspecifiedMatching
+UMLS:C0276535	AIDS with Kaposi's sarcoma	skos:broadMatch	MONDO:0005055	Kaposi's sarcoma	semapv:UnspecifiedMatching
+UMLS:C0278076	Behavioral tic	skos:exactMatch	MONDO:0002420	tic disorder	semapv:UnspecifiedMatching
+UMLS:C0282193	Iron Overload	skos:narrowMatch	MONDO:0006507	hereditary hemochromatosis	semapv:UnspecifiedMatching
+UMLS:C0282313	Condition, Preneoplastic	skos:exactMatch	MONDO:0021074	precancerous condition	semapv:UnspecifiedMatching
+UMLS:C0302356	incomplete anencephaly, hemicrania	skos:broadMatch	MONDO:0000819	anencephaly	semapv:UnspecifiedMatching
+UMLS:C0311334	Generalized convulsive epilepsy	skos:broadMatch	MONDO:0100574	generalized epilepsy	semapv:UnspecifiedMatching
+UMLS:C0311375	Arsenic Poisoning	skos:broadMatch	MONDO:0029000	poisoning	semapv:UnspecifiedMatching
+UMLS:C0332890	Congenital hemihypertrophy	skos:closeMatch	MONDO:0009331	isolated hemihyperplasia	semapv:UnspecifiedMatching
+UMLS:C0333463	Senile Plaques	skos:closeMatch	MONDO:0010022	senile plaque formation	semapv:UnspecifiedMatching
+UMLS:C0334401	Malignant Granulosa Cell Tumor	skos:exactMatch	MONDO:0020541	maligant granulosa cell tumor of ovary	semapv:UnspecifiedMatching
+UMLS:C0334609	Hemangioblastic Meningioma	skos:broadMatch	MONDO:0016642	meningioma	semapv:UnspecifiedMatching
+UMLS:C0334610	Hemangiopericytic Meningioma	skos:broadMatch	MONDO:0016642	meningioma	semapv:UnspecifiedMatching
+UMLS:C0334634	Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse	skos:closeMatch	MONDO:0003864	chronic lymphocytic leukemia/small lymphocytic lymphoma	semapv:UnspecifiedMatching
+UMLS:C0338468	Tic Disorders, Vocal	skos:closeMatch	MONDO:0001074	chronic tic disorder	semapv:UnspecifiedMatching
+UMLS:C0338478	Idiopathic Myoclonic Epilepsy	skos:broadMatch	MONDO:0100577	myoclonic epilepsy	semapv:UnspecifiedMatching
+UMLS:C0338479	Symptomatic Myoclonic Epilepsy	skos:broadMatch	MONDO:0100577	myoclonic epilepsy	semapv:UnspecifiedMatching
+UMLS:C0338582	Sporadic Cerebral Amyloid Angiopathy	skos:broadMatch	MONDO:0005620	cerebral amyloid angiopathy	semapv:UnspecifiedMatching
+UMLS:C0338831	Manic	skos:closeMatch	MONDO:0024612	manic bipolar affective disorder	semapv:UnspecifiedMatching
+UMLS:C0339143	Thyroid associated opthalmopathies	skos:exactMatch	MONDO:0001509	endocrine exophthalmos	semapv:UnspecifiedMatching
+UMLS:C0341934	Transient hypertension of pregnancy	skos:broadMatch	MONDO:0024664	hypertension, pregnancy-induced	semapv:UnspecifiedMatching
+UMLS:C0342257	Complications of Diabetes Mellitus	skos:narrowMatch	MONDO:0000065	microvascular complications of diabetes, susceptibility	semapv:UnspecifiedMatching
+UMLS:C0342336	Insulin resistance - type A	skos:exactMatch	MONDO:0012520	insulin-resistance syndrome type A	semapv:UnspecifiedMatching
+UMLS:C0342779	Complex V deficiency	skos:exactMatch	MONDO:0014471	mitochondrial proton-transporting ATP synthase complex deficiency	semapv:UnspecifiedMatching
+UMLS:C0342861	Uroporphyrinogen decarboxylase deficiency	skos:closeMatch	MONDO:0008296	familial porphyria cutanea tarda	semapv:UnspecifiedMatching
+UMLS:C0343495	Lockjaw	skos:exactMatch	MONDO:0005526	tetanus	semapv:UnspecifiedMatching
+UMLS:C0343640	African Burkitt's lymphoma	skos:broadMatch	MONDO:0007243	Burkitt lymphoma	semapv:UnspecifiedMatching
+UMLS:C0344487	Lateral meningocele	skos:broadMatch	MONDO:0001147	meningocele	semapv:UnspecifiedMatching
+UMLS:C0346302	Growth Hormone-Secreting Pituitary Adenoma	skos:exactMatch	MONDO:0006238	growth hormone-producing pituitary gland adenoma	semapv:UnspecifiedMatching
+UMLS:C0347869	Epilepsy, Akinetic	skos:broadMatch	MONDO:0005027	epilepsy	semapv:UnspecifiedMatching
+UMLS:C0349204	Nonorganic psychosis	skos:broadMatch	MONDO:0005485	psychotic disorder	semapv:UnspecifiedMatching
+UMLS:C0353676	Organophosphorus Poisoning	skos:broadMatch	MONDO:0029000	poisoning	semapv:UnspecifiedMatching
+UMLS:C0376280	Anxiety States, Neurotic	skos:closeMatch	MONDO:0005618	anxiety disorder	semapv:UnspecifiedMatching
+UMLS:C0376323	Congestive Ophthalmopathy	skos:exactMatch	MONDO:0001509	endocrine exophthalmos	semapv:UnspecifiedMatching
+UMLS:C0376362	Purpura Hemorrhagica	skos:closeMatch	MONDO:0019098	autoimmune thrombocytopenia	semapv:UnspecifiedMatching
+UMLS:C0376384	Nicotine Use Disorder	skos:exactMatch	MONDO:0008575	nicotine dependence	semapv:UnspecifiedMatching
+UMLS:C0392156	Akathisia	skos:narrowMatch	MONDO:0006731	drug-induced akathisia	semapv:UnspecifiedMatching
+UMLS:C0393554	Amyotrophic Lateral Sclerosis With Dementia	skos:closeMatch	MONDO:0017161	frontotemporal dementia with motor neuron disease	semapv:UnspecifiedMatching
+UMLS:C0393574	Huntington Disease, Late Onset	skos:broadMatch	MONDO:0007739	Huntington disease	semapv:UnspecifiedMatching
+UMLS:C0393610	Dystonia, Diurnal	skos:exactMatch	MONDO:0016812	dopa-responsive dystonia	semapv:UnspecifiedMatching
+UMLS:C0393664	Multiple Sclerosis, Acute Relapsing	skos:exactMatch	MONDO:0005314	relapsing-remitting multiple sclerosis	semapv:UnspecifiedMatching
+UMLS:C0393682	Epilepsy, Lateral Temporal	skos:broadMatch	MONDO:0005115	temporal lobe epilepsy	semapv:UnspecifiedMatching
+UMLS:C0393683	Epilepsy, Supplementary Motor	skos:broadMatch	MONDO:0006891	partial motor epilepsy	semapv:UnspecifiedMatching
+UMLS:C0393684	Epilepsy, Cingulate	skos:broadMatch	MONDO:0002338	extratemporal epilepsy	semapv:UnspecifiedMatching
+UMLS:C0393688	Epilepsy, Opercular	skos:broadMatch	MONDO:0002338	extratemporal epilepsy	semapv:UnspecifiedMatching
+UMLS:C0393695	Early Childhood Epilepsy, Myoclonic	skos:closeMatch	MONDO:0014633	epilepsy with myoclonic atonic seizures	semapv:UnspecifiedMatching
+UMLS:C0393698	Cryptogenic Infantile Spasms	skos:broadMatch	MONDO:0018097	infantile spasms	semapv:UnspecifiedMatching
+UMLS:C0393699	Symptomatic Infantile Spasms	skos:broadMatch	MONDO:0018097	infantile spasms	semapv:UnspecifiedMatching
+UMLS:C0393786	Trigeminal Neuralgia, Idiopathic	skos:broadMatch	MONDO:0008599	trigeminal neuralgia	semapv:UnspecifiedMatching
+UMLS:C0393787	Secondary Trigeminal Neuralgia	skos:broadMatch	MONDO:0008599	trigeminal neuralgia	semapv:UnspecifiedMatching
+UMLS:C0393835	Diabetic Asymmetric Polyneuropathy	skos:broadMatch	MONDO:0001583	diabetic polyneuropathy	semapv:UnspecifiedMatching
+UMLS:C0398562	Triose phosphate isomerase deficiency	skos:exactMatch	MONDO:0014221	triosephosphate isomerase deficiency	semapv:UnspecifiedMatching
+UMLS:C0403447	Chronic Kidney Insufficiency	skos:exactMatch	MONDO:0005300	chronic kidney disease	semapv:UnspecifiedMatching
+UMLS:C0410204	Myopathy, Centronuclear, Autosomal Recessive	skos:exactMatch	MONDO:0015705	autosomal recessive centronuclear myopathy	semapv:UnspecifiedMatching
+UMLS:C0422850	Seizures, Somatosensory	skos:broadMatch	MONDO:0005027	epilepsy	semapv:UnspecifiedMatching
+UMLS:C0422853	Olfactory seizure	skos:broadMatch	MONDO:0005027	epilepsy	semapv:UnspecifiedMatching
+UMLS:C0422854	Gustatory seizure	skos:broadMatch	MONDO:0005027	epilepsy	semapv:UnspecifiedMatching
+UMLS:C0422855	Vertiginous seizure	skos:broadMatch	MONDO:0005027	epilepsy	semapv:UnspecifiedMatching
+UMLS:C0423618	Throbbing Headache	skos:broadMatch	MONDO:0021146	headache disorder	semapv:UnspecifiedMatching
+UMLS:C0423623	Bilateral Headache	skos:broadMatch	MONDO:0021146	headache disorder	semapv:UnspecifiedMatching
+UMLS:C0423711	Neuralgia, Perineal	skos:broadMatch	MONDO:0021667	neuralgia	semapv:UnspecifiedMatching
+UMLS:C0431350	Primary microcephaly	skos:closeMatch	MONDO:0016660	autosomal recessive primary microcephaly	semapv:UnspecifiedMatching
+UMLS:C0431663	Bilateral Cryptorchidism	skos:broadMatch	MONDO:0009047	cryptorchidism	semapv:UnspecifiedMatching
+UMLS:C0431664	Unilateral Cryptorchidism	skos:broadMatch	MONDO:0009047	cryptorchidism	semapv:UnspecifiedMatching
+UMLS:C0432417	Trisomy 21, Meiotic Nondisjunction	skos:broadMatch	MONDO:0008608	Down syndrome	semapv:UnspecifiedMatching
+UMLS:C0433895	Spinal Cord Contusion	skos:broadMatch	MONDO:0043797	spinal cord injury	semapv:UnspecifiedMatching
+UMLS:C0433900	Spinal Cord Laceration	skos:broadMatch	MONDO:0043797	spinal cord injury	semapv:UnspecifiedMatching
+UMLS:C0433905	Spinal Cord transection injury	skos:broadMatch	MONDO:0043797	spinal cord injury	semapv:UnspecifiedMatching
+UMLS:C0438414	Myoclonic Encephalopathy	skos:narrowMatch	MONDO:0100026	myoclonic encephalopathy in non-progressive disorder	semapv:UnspecifiedMatching
+UMLS:C0452047	Brain Injuries, Focal	skos:broadMatch	MONDO:0043510	brain injury	semapv:UnspecifiedMatching
+UMLS:C0472381	Posterior Circulation Transient Ischemic Attack	skos:broadMatch	MONDO:0005264	transient ischemic attack	semapv:UnspecifiedMatching
+UMLS:C0472383	Subarachnoid Hemorrhage, Spontaneous	skos:closeMatch	MONDO:0005099	subarachnoid hemorrhage	semapv:UnspecifiedMatching
+UMLS:C0474366	Generalized Headache	skos:broadMatch	MONDO:0021146	headache disorder	semapv:UnspecifiedMatching
+UMLS:C0494463	Alzheimer Disease, Late Onset	skos:closeMatch	MONDO:0007089	Alzheimer disease 2	semapv:UnspecifiedMatching
+UMLS:C0494475	Tonic - clonic seizures	skos:closeMatch	MONDO:0005754	epilepsy with generalized tonic-clonic seizures	semapv:UnspecifiedMatching
+UMLS:C0496920	Neoplasm of uncertain or unknown behavior of ovary	skos:broadMatch	MONDO:0021068	ovarian neoplasm	semapv:UnspecifiedMatching
+UMLS:C0520463	Chronic active hepatitis	skos:broadMatch	MONDO:0002251	hepatitis	semapv:UnspecifiedMatching
+UMLS:C0521664	Acute Confusional Migraine	skos:broadMatch	MONDO:0005277	migraine disorder	semapv:UnspecifiedMatching
+UMLS:C0522224	Paralysed	skos:closeMatch	MONDO:0006496	palsy	semapv:UnspecifiedMatching
+UMLS:C0524610	Chronic Alcoholic Hepatitis	skos:broadMatch	MONDO:0001505	alcoholic hepatitis	semapv:UnspecifiedMatching
+UMLS:C0524611	Cryptogenic Chronic Hepatitis	skos:broadMatch	MONDO:0002251	hepatitis	semapv:UnspecifiedMatching
+UMLS:C0524702	Pulmonary Thromboembolisms	skos:broadMatch	MONDO:0005399	venous thromboembolism	semapv:UnspecifiedMatching
+UMLS:C0524851	Neurodegenerative Disorders	skos:exactMatch	MONDO:0005559	neurodegenerative disease	semapv:UnspecifiedMatching
+UMLS:C0524948	Maxillofacial Abnormalities	skos:closeMatch	MONDO:0023369	disorder of facial skeleton	semapv:UnspecifiedMatching
+UMLS:C0546126	Acute Confusional Senile Dementia	skos:broadMatch	MONDO:0001627	dementia	semapv:UnspecifiedMatching
+UMLS:C0553692	Brain hemorrhage	skos:closeMatch	MONDO:0013792	intracerebral hemorrhage	semapv:UnspecifiedMatching
+UMLS:C0554591	Polymyositis, Idiopathic	skos:exactMatch	MONDO:0019127	polymyositis	semapv:UnspecifiedMatching
+UMLS:C0559031	Functional Gastrointestinal Disorders	skos:narrowMatch	MONDO:0001318	functional gastric disease	semapv:UnspecifiedMatching
+UMLS:C0577631	Carotid Atherosclerosis	skos:broadMatch	MONDO:0005311	atherosclerosis	semapv:UnspecifiedMatching
+UMLS:C0581883	Complete Hearing Loss	skos:broadMatch	MONDO:0005365	hearing loss disorder	semapv:UnspecifiedMatching
+UMLS:C0596298	Cerebrovascular Occlusion	skos:broadMatch	MONDO:0011057	cerebrovascular disorder	semapv:UnspecifiedMatching
+UMLS:C0600178	External Carotid Artery Diseases	skos:broadMatch	MONDO:0005269	carotid artery disorder	semapv:UnspecifiedMatching
+UMLS:C0600228	Cardiopulmonary Arrest	skos:exactMatch	MONDO:0000745	cardiac arrest	semapv:UnspecifiedMatching
+UMLS:C0678202	Regional enteritis	skos:exactMatch	MONDO:0005011	Crohn disease	semapv:UnspecifiedMatching
+UMLS:C0700359	Organophosphate Poisoning	skos:exactMatch	MONDO:0800386	organophosphate poisoning	semapv:UnspecifiedMatching
+UMLS:C0700438	Sick Headaches	skos:exactMatch	MONDO:0005277	migraine disorder	semapv:UnspecifiedMatching
+UMLS:C0702169	Acrania	skos:exactMatch	MONDO:0019795	acalvaria	semapv:UnspecifiedMatching
+UMLS:C0740376	Middle Cerebral Artery Thrombosis	skos:broadMatch	MONDO:0000944	cerebral artery occlusion	semapv:UnspecifiedMatching
+UMLS:C0740391	Middle Cerebral Artery Occlusion	skos:broadMatch	MONDO:0000944	cerebral artery occlusion	semapv:UnspecifiedMatching
+UMLS:C0750901	Alzheimer Disease, Early Onset	skos:closeMatch	MONDO:0015140	early-onset autosomal dominant Alzheimer disease	semapv:UnspecifiedMatching
+UMLS:C0750906	Tactile Amnesia	skos:exactMatch	MONDO:0000681	tactile agnosia	semapv:UnspecifiedMatching
+UMLS:C0750907	Amnestic State	skos:closeMatch	MONDO:0001152	amnestic disorder	semapv:UnspecifiedMatching
+UMLS:C0750936	Intracranial Astrocytoma	skos:broadMatch	MONDO:0021636	astrocytic tumor	semapv:UnspecifiedMatching
+UMLS:C0750942	Auditory Inattention	skos:broadMatch	MONDO:0024422	auditory perceptual disorders	semapv:UnspecifiedMatching
+UMLS:C0750969	Vasogenic Brain Edema	skos:broadMatch	MONDO:0006684	brain edema	semapv:UnspecifiedMatching
+UMLS:C0750970	Cytotoxic Brain Edema	skos:broadMatch	MONDO:0006684	brain edema	semapv:UnspecifiedMatching
+UMLS:C0750977	Recurrent Brain Neoplasm	skos:broadMatch	MONDO:0021211	brain neoplasm	semapv:UnspecifiedMatching
+UMLS:C0750979	Primary malignant neoplasm of brain	skos:exactMatch	MONDO:0001657	brain cancer	semapv:UnspecifiedMatching
+UMLS:C0750986	Internal Carotid Artery Diseases	skos:broadMatch	MONDO:0005269	carotid artery disorder	semapv:UnspecifiedMatching
+UMLS:C0750987	Arterial Diseases, Common Carotid	skos:broadMatch	MONDO:0005269	carotid artery disorder	semapv:UnspecifiedMatching
+UMLS:C0751008	Intracranial Arteriovenous Malformation, Ruptured	skos:broadMatch	MONDO:0007154	arteriovenous malformations of the brain	semapv:UnspecifiedMatching
+UMLS:C0751010	Cerebral Infarction, Left Hemisphere	skos:broadMatch	MONDO:0002679	cerebral infarction	semapv:UnspecifiedMatching
+UMLS:C0751011	Cerebral Infarction, Right Hemisphere	skos:broadMatch	MONDO:0002679	cerebral infarction	semapv:UnspecifiedMatching
+UMLS:C0751014	Subcortical Infarction	skos:broadMatch	MONDO:0002679	cerebral infarction	semapv:UnspecifiedMatching
+UMLS:C0751019	Carotid Circulation Transient Ischemic Attack	skos:broadMatch	MONDO:0005264	transient ischemic attack	semapv:UnspecifiedMatching
+UMLS:C0751020	Transient Ischemic Attack, Vertebrobasilar Circulation	skos:broadMatch	MONDO:0005264	transient ischemic attack	semapv:UnspecifiedMatching
+UMLS:C0751021	Crescendo Transient Ischemic Attacks	skos:broadMatch	MONDO:0005264	transient ischemic attack	semapv:UnspecifiedMatching
+UMLS:C0751022	Brain Stem Ischemia, Transient	skos:broadMatch	MONDO:0005264	transient ischemic attack	semapv:UnspecifiedMatching
+UMLS:C0751071	Familial Dementia	skos:broadMatch	MONDO:0001627	dementia	semapv:UnspecifiedMatching
+UMLS:C0751072	Frontotemporal Lobar Degeneration	skos:closeMatch	MONDO:0017276	frontotemporal dementia	semapv:UnspecifiedMatching
+UMLS:C0751074	Diabetic Neuralgia	skos:broadMatch	MONDO:0001583	diabetic polyneuropathy	semapv:UnspecifiedMatching
+UMLS:C0751081	Trisomy 21, Mitotic Nondisjunction	skos:broadMatch	MONDO:0008608	Down syndrome	semapv:UnspecifiedMatching
+UMLS:C0751088	Dyskinesia, Medication-Induced	skos:exactMatch	MONDO:0006732	drug-induced dyskinesia	semapv:UnspecifiedMatching
+UMLS:C0751093	Dystonia, Limb	skos:broadMatch	MONDO:0003441	dystonic disorder	semapv:UnspecifiedMatching
+UMLS:C0751111	Awakening Epilepsy	skos:broadMatch	MONDO:0005027	epilepsy	semapv:UnspecifiedMatching
+UMLS:C0751117	Cryptogenic Tonic-Clonic Epilepsy	skos:broadMatch	MONDO:0005754	epilepsy with generalized tonic-clonic seizures	semapv:UnspecifiedMatching
+UMLS:C0751118	Epilepsy, Tonic-Clonic, Familial	skos:broadMatch	MONDO:0005754	epilepsy with generalized tonic-clonic seizures	semapv:UnspecifiedMatching
+UMLS:C0751119	Epilepsy, Tonic-Clonic, Symptomatic	skos:broadMatch	MONDO:0005754	epilepsy with generalized tonic-clonic seizures	semapv:UnspecifiedMatching
+UMLS:C0751156	FRAXA Syndrome	skos:exactMatch	MONDO:0010383	fragile X syndrome	semapv:UnspecifiedMatching
+UMLS:C0751177	Cancer of Head	skos:closeMatch	MONDO:0005627	head and neck cancer	semapv:UnspecifiedMatching
+UMLS:C0751187	Periorbital Headache	skos:broadMatch	MONDO:0021146	headache disorder	semapv:UnspecifiedMatching
+UMLS:C0751189	Retro-Ocular Headache	skos:broadMatch	MONDO:0021146	headache disorder	semapv:UnspecifiedMatching
+UMLS:C0751190	Sharp Headache	skos:broadMatch	MONDO:0021146	headache disorder	semapv:UnspecifiedMatching
+UMLS:C0751192	Vertex Headache	skos:broadMatch	MONDO:0021146	headache disorder	semapv:UnspecifiedMatching
+UMLS:C0751197	Fulminant Hepatic Failure with Cerebral Edema	skos:broadMatch	MONDO:0019542	acute liver failure	semapv:UnspecifiedMatching
+UMLS:C0751198	Hepatic Stupor	skos:broadMatch	MONDO:0001711	hepatic encephalopathy	semapv:UnspecifiedMatching
+UMLS:C0751207	Akinetic-Rigid Variant of Huntington Disease	skos:exactMatch	MONDO:0042980	Westphal disease	semapv:UnspecifiedMatching
+UMLS:C0751220	Inappropriate ACTH Secretion Syndrome	skos:exactMatch	MONDO:0043472	ectopic ACTH secretion syndrome	semapv:UnspecifiedMatching
+UMLS:C0751262	Adult Learning Disorders	skos:broadMatch	MONDO:0004681	learning disability	semapv:UnspecifiedMatching
+UMLS:C0751263	Learning Disturbance	skos:closeMatch	MONDO:0004681	learning disability	semapv:UnspecifiedMatching
+UMLS:C0751267	Encephalopathy, Subacute Necrotizing, Infantile	skos:exactMatch	MONDO:0009723	Leigh syndrome	semapv:UnspecifiedMatching
+UMLS:C0751268	Encephalopathy, Subacute Necrotizing, Juvenile	skos:exactMatch	MONDO:0009723	Leigh syndrome	semapv:UnspecifiedMatching
+UMLS:C0751295	Memory Loss	skos:closeMatch	MONDO:0001152	amnestic disorder	semapv:UnspecifiedMatching
+UMLS:C0751316	Acquired Meningomyelocele	skos:closeMatch	MONDO:0019773	myelomeningocele	semapv:UnspecifiedMatching
+UMLS:C0751324	Multiple Sclerosis, Acute Fulminating	skos:exactMatch	MONDO:0016429	Marburg acute multiple sclerosis	semapv:UnspecifiedMatching
+UMLS:C0751371	Neuralgia, Ilioinguinal	skos:broadMatch	MONDO:0021667	neuralgia	semapv:UnspecifiedMatching
+UMLS:C0751372	Nerve Pain	skos:exactMatch	MONDO:0021667	neuralgia	semapv:UnspecifiedMatching
+UMLS:C0751373	Paroxysmal Nerve Pain	skos:exactMatch	MONDO:0021667	neuralgia	semapv:UnspecifiedMatching
+UMLS:C0751406	Post-Traumatic Osteoporosis	skos:broadMatch	MONDO:0005298	osteoporosis	semapv:UnspecifiedMatching
+UMLS:C0751414	Parkinson Disease, Secondary Vascular	skos:exactMatch	MONDO:0956980	vascular parkinsonism	semapv:UnspecifiedMatching
+UMLS:C0751415	Atherosclerotic Parkinsonism	skos:broadMatch	MONDO:0006966	secondary Parkinson disease	semapv:UnspecifiedMatching
+UMLS:C0751494	Convulsive Seizures	skos:broadMatch	MONDO:0005027	epilepsy	semapv:UnspecifiedMatching
+UMLS:C0751496	Seizures, Sensory	skos:broadMatch	MONDO:0005027	epilepsy	semapv:UnspecifiedMatching
+UMLS:C0751500	Petrous Sinus Thrombophlebitis	skos:broadMatch	MONDO:0002800	thrombophlebitis	semapv:UnspecifiedMatching
+UMLS:C0751501	Intracranial Sinus Thrombophlebitis	skos:closeMatch	MONDO:0002692	intracranial sinus thrombosis	semapv:UnspecifiedMatching
+UMLS:C0751502	Petrous Sinus Thrombosis	skos:broadMatch	MONDO:0002692	intracranial sinus thrombosis	semapv:UnspecifiedMatching
+UMLS:C0751508	Long Sleeper Syndrome	skos:broadMatch	MONDO:0003406	sleep-wake disorder	semapv:UnspecifiedMatching
+UMLS:C0751509	Short Sleeper Syndrome	skos:broadMatch	MONDO:0003406	sleep-wake disorder	semapv:UnspecifiedMatching
+UMLS:C0751510	Sleep-Related Neurogenic Tachypnea	skos:broadMatch	MONDO:0003406	sleep-wake disorder	semapv:UnspecifiedMatching
+UMLS:C0751511	Subwakefullness Syndrome	skos:broadMatch	MONDO:0003406	sleep-wake disorder	semapv:UnspecifiedMatching
+UMLS:C0751515	Post-Traumatic Myelopathy	skos:closeMatch	MONDO:0043797	spinal cord injury	semapv:UnspecifiedMatching
+UMLS:C0751530	Subarachnoid Hemorrhage, Aneurysmal	skos:exactMatch	MONDO:0019543	acquired aneurysmal subarachnoid hemorrhage	semapv:UnspecifiedMatching
+UMLS:C0751553	Childhood Tic Disorders	skos:broadMatch	MONDO:0002420	tic disorder	semapv:UnspecifiedMatching
+UMLS:C0751554	Motor Tic Disorders	skos:broadMatch	MONDO:0002420	tic disorder	semapv:UnspecifiedMatching
+UMLS:C0751594	Zellweger-Like Syndrome	skos:closeMatch	MONDO:0018861	Zellweger-like syndrome without peroxisomal anomalies	semapv:UnspecifiedMatching
+UMLS:C0751633	Carotid Artery Plaque	skos:broadMatch	MONDO:0005269	carotid artery disorder	semapv:UnspecifiedMatching
+UMLS:C0751634	Carotid Ulcer	skos:broadMatch	MONDO:0005269	carotid artery disorder	semapv:UnspecifiedMatching
+UMLS:C0751635	Common Carotid Artery Stenosis	skos:broadMatch	MONDO:0001612	carotid stenosis	semapv:UnspecifiedMatching
+UMLS:C0751636	External Carotid Artery Stenosis	skos:broadMatch	MONDO:0001612	carotid stenosis	semapv:UnspecifiedMatching
+UMLS:C0751640	Cryptogenic Partial Complex Epilepsy	skos:broadMatch	MONDO:0006710	complex partial epilepsy	semapv:UnspecifiedMatching
+UMLS:C0751641	Epilepsy, Symptomatic, Partial Complex	skos:broadMatch	MONDO:0006710	complex partial epilepsy	semapv:UnspecifiedMatching
+UMLS:C0751643	Epilepsy, Orbito-Frontal	skos:broadMatch	MONDO:0002612	frontal lobe epilepsy	semapv:UnspecifiedMatching
+UMLS:C0751645	Human Transmissible Spongiform Encephalopathies, Inherited	skos:broadMatch	MONDO:0018926	human prion disease	semapv:UnspecifiedMatching
+UMLS:C0751777	Familial Progressive Myoclonic Epilepsy	skos:exactMatch	MONDO:0020074	progressive myoclonus epilepsy	semapv:UnspecifiedMatching
+UMLS:C0751780	Biotin-Responsive Encephalopathy	skos:closeMatch	MONDO:0011841	biotin-responsive basal ganglia disease	semapv:UnspecifiedMatching
+UMLS:C0751823	Septic Phlebitis, Sagittal Sinus	skos:closeMatch	MONDO:0002695	sagittal sinus thrombosis	semapv:UnspecifiedMatching
+UMLS:C0751824	Sagittal Sinus Thrombophlebitis	skos:closeMatch	MONDO:0002695	sagittal sinus thrombosis	semapv:UnspecifiedMatching
+UMLS:C0751845	Middle Cerebral Artery Embolus	skos:broadMatch	MONDO:0000944	cerebral artery occlusion	semapv:UnspecifiedMatching
+UMLS:C0751846	Left Middle Cerebral Artery Infarction	skos:broadMatch	MONDO:0006857	middle cerebral artery infarction	semapv:UnspecifiedMatching
+UMLS:C0751847	Embolic Infarction, Middle Cerebral Artery	skos:broadMatch	MONDO:0006857	middle cerebral artery infarction	semapv:UnspecifiedMatching
+UMLS:C0751848	Thrombotic Infarction, Middle Cerebral Artery	skos:broadMatch	MONDO:0006857	middle cerebral artery infarction	semapv:UnspecifiedMatching
+UMLS:C0751849	Right Middle Cerebral Artery Infarction	skos:broadMatch	MONDO:0006857	middle cerebral artery infarction	semapv:UnspecifiedMatching
+UMLS:C0751851	Arsenic Encephalopathy	skos:broadMatch	MONDO:0005560	brain disorder	semapv:UnspecifiedMatching
+UMLS:C0751852	Arsenic Induced Polyneuropathy	skos:broadMatch	MONDO:0001824	polyneuropathy	semapv:UnspecifiedMatching
+UMLS:C0751865	Alcohol-Induced Disorders, Nervous System	skos:broadMatch	MONDO:0021699	alcohol-induced disorders	semapv:UnspecifiedMatching
+UMLS:C0751885	Myasthenic Syndromes, Congenital, Slow Channel	skos:broadMatch	MONDO:0020344	postsynaptic congenital myasthenic syndrome	semapv:UnspecifiedMatching
+UMLS:C0751898	Tic, Gestural	skos:broadMatch	MONDO:0002420	tic disorder	semapv:UnspecifiedMatching
+UMLS:C0751899	Tic, Transient	skos:closeMatch	MONDO:0002419	transient tic disorder	semapv:UnspecifiedMatching
+UMLS:C0751900	Tic, Motor	skos:broadMatch	MONDO:0002420	tic disorder	semapv:UnspecifiedMatching
+UMLS:C0751901	Tic, Vocal	skos:broadMatch	MONDO:0002420	tic disorder	semapv:UnspecifiedMatching
+UMLS:C0751956	Acute Cerebrovascular Accidents	skos:exactMatch	MONDO:0005098	stroke disorder	semapv:UnspecifiedMatching
+UMLS:C0752104	Familial Juvenile Parkinsonism	skos:broadMatch	MONDO:0017279	young-onset Parkinson disease	semapv:UnspecifiedMatching
+UMLS:C0752306	Anoxia-Ischemia, Brain	skos:exactMatch	MONDO:0006685	brain hypoxia - ischemia	semapv:UnspecifiedMatching
+UMLS:C0752307	Anoxia-Ischemia, Cerebral	skos:broadMatch	MONDO:0005299	brain ischemia	semapv:UnspecifiedMatching
+UMLS:C0795688	Subarachnoid Hemorrhage, Intracranial	skos:exactMatch	MONDO:0005099	subarachnoid hemorrhage	semapv:UnspecifiedMatching
+UMLS:C0809983	Schizophrenia and related disorders	skos:narrowMatch	MONDO:0005090	schizophrenia	semapv:UnspecifiedMatching
+UMLS:C0813142	Circadian Rhythm Disorders	skos:exactMatch	MONDO:0024361	circadian rhythm sleep disorder	semapv:UnspecifiedMatching
+UMLS:C0857501	Acute schizophrenia	skos:broadMatch	MONDO:0005090	schizophrenia	semapv:UnspecifiedMatching
+UMLS:C0860029	Vaginal Yeast Infections	skos:broadMatch	MONDO:0023557	infective vaginitis	semapv:UnspecifiedMatching
+UMLS:C0877781	Hemicrania	skos:narrowMatch	MONDO:0015529	paroxysmal Hemicrania	semapv:UnspecifiedMatching
+UMLS:C0877855	Cerebral Embolism and Thrombosis	skos:narrowMatch	MONDO:0017993	cerebral sinovenous thrombosis	semapv:UnspecifiedMatching
+UMLS:C0887799	Posterior Choroidal Artery Infarction	skos:broadMatch	MONDO:0006917	posterior cerebral artery infarction	semapv:UnspecifiedMatching
+UMLS:C0887800	Psychogenic Inversion of Circadian Rhythm	skos:broadMatch	MONDO:0024361	circadian rhythm sleep disorder	semapv:UnspecifiedMatching
+UMLS:C0917730	Female sterility	skos:exactMatch	MONDO:0021124	female infertility	semapv:UnspecifiedMatching
+UMLS:C0917731	Male sterility	skos:broadMatch	MONDO:0005047	infertility disorder	semapv:UnspecifiedMatching
+UMLS:C0917805	Transient Cerebral Ischemia	skos:exactMatch	MONDO:0005264	transient ischemic attack	semapv:UnspecifiedMatching
+UMLS:C0917816	Mental deficiency	skos:exactMatch	MONDO:0001071	intellectual disability	semapv:UnspecifiedMatching
+UMLS:C0936247	Brain Embolism and Thrombosis	skos:narrowMatch	MONDO:0006809	intracranial embolism	semapv:UnspecifiedMatching
+UMLS:C0948896	Primary hypogonadism	skos:broadMatch	MONDO:0002146	hypogonadism	semapv:UnspecifiedMatching
+UMLS:C0949855	Electron Transport Chain Deficiencies, Mitochondrial	skos:exactMatch	MONDO:0000066	mitochondrial respiratory chain complex deficiency	semapv:UnspecifiedMatching
+UMLS:C0949856	Oxidative Phosphorylation Deficiencies	skos:exactMatch	MONDO:0016387	mitochondrial oxidative phosphorylation disorder	semapv:UnspecifiedMatching
+UMLS:C0949857	Mitochondrial Respiratory Chain Deficiencies	skos:exactMatch	MONDO:0000066	mitochondrial respiratory chain complex deficiency	semapv:UnspecifiedMatching
+UMLS:C1112213	Cholestasis in newborn	skos:broadMatch	MONDO:0001751	cholestasis	semapv:UnspecifiedMatching
+UMLS:C1136382	Sclerocystic Ovaries	skos:exactMatch	MONDO:0008487	polycystic ovary syndrome	semapv:UnspecifiedMatching
+UMLS:C1148477	Deafness, Sudden	skos:exactMatch	MONDO:0020677	sudden hearing loss disorder	semapv:UnspecifiedMatching
+UMLS:C1257925	Mammary Carcinoma, Animal	skos:exactMatch	MONDO:1016941	mammary carcinoma, non-human animal	semapv:UnspecifiedMatching
+UMLS:C1257931	Mammary Neoplasms, Human	skos:closeMatch	MONDO:0007254	breast cancer	semapv:UnspecifiedMatching
+UMLS:C1257963	Endogenous Hyperinsulinism	skos:broadMatch	MONDO:0002177	hyperinsulinism	semapv:UnspecifiedMatching
+UMLS:C1257964	Exogenous Hyperinsulinism	skos:broadMatch	MONDO:0002177	hyperinsulinism	semapv:UnspecifiedMatching
+UMLS:C1257965	Compensatory Hyperinsulinemia	skos:broadMatch	MONDO:0002177	hyperinsulinism	semapv:UnspecifiedMatching
+UMLS:C1258085	Barrett Epithelium	skos:closeMatch	MONDO:0013662	Barrett esophagus	semapv:UnspecifiedMatching
+UMLS:C1270972	Mild cognitive disorder	skos:broadMatch	MONDO:0002039	cognitive disorder	semapv:UnspecifiedMatching
+UMLS:C1274933	Drug-Induced Stevens Johnson Syndrome	skos:broadMatch	MONDO:0018229	Stevens-Johnson syndrome	semapv:UnspecifiedMatching
+UMLS:C1279420	Anxiety neurosis (finding)	skos:closeMatch	MONDO:0005618	anxiety disorder	semapv:UnspecifiedMatching
+UMLS:C1300268	Brachydactyly syndrome type C	skos:exactMatch	MONDO:0007221	brachydactyly type C	semapv:UnspecifiedMatching
+UMLS:C1306503	Congenital exomphalos	skos:exactMatch	MONDO:0019015	omphalocele	semapv:UnspecifiedMatching
+UMLS:C1321872	Stage IV Skin Melanoma	skos:broadMatch	MONDO:0005012	cutaneous melanoma	semapv:UnspecifiedMatching
+UMLS:C1321905	Minimal Brain Dysfunction	skos:narrowMatch	MONDO:0005302	attention deficit hyperactivity disorder, inattentive type	semapv:UnspecifiedMatching
+UMLS:C1330966	Developmental Academic Disorder	skos:closeMatch	MONDO:0004681	learning disability	semapv:UnspecifiedMatching
+UMLS:C1384600	Systemic onset juvenile chronic arthritis	skos:exactMatch	MONDO:0019434	systemic-onset juvenile idiopathic arthritis	semapv:UnspecifiedMatching
+UMLS:C1412000	Mesenteric vascular insufficiency	skos:broadMatch	MONDO:0020674	vascular insufficiency disorder	semapv:UnspecifiedMatching
+UMLS:C1449646	Primary Peritonitis	skos:broadMatch	MONDO:0004522	infectious peritonitis	semapv:UnspecifiedMatching
+UMLS:C1449647	Secondary Peritonitis	skos:broadMatch	MONDO:1010128	peritonitis	semapv:UnspecifiedMatching
+UMLS:C1449843	Pseudohypoaldosteronism, Type I, Autosomal Recessive	skos:exactMatch	MONDO:0009917	pseudohypoaldosteronism, type IB1, autosomal recessive	semapv:UnspecifiedMatching
+UMLS:C1510432	Radiation Sickness	skos:exactMatch	MONDO:0033938	acute radiation syndrome	semapv:UnspecifiedMatching
+UMLS:C1510497	Lens Opacities	skos:exactMatch	MONDO:0005129	cataract	semapv:UnspecifiedMatching
+UMLS:C1527197	Angioblastic Meningioma	skos:broadMatch	MONDO:0016642	meningioma	semapv:UnspecifiedMatching
+UMLS:C1527303	Chronic Airflow Obstruction	skos:closeMatch	MONDO:0005002	chronic obstructive pulmonary disease	semapv:UnspecifiedMatching
+UMLS:C1527335	Transient Ischemic Attack, Anterior Circulation	skos:broadMatch	MONDO:0005264	transient ischemic attack	semapv:UnspecifiedMatching
+UMLS:C1527352	Hepatic Form of Wilson Disease	skos:broadMatch	MONDO:0010200	Wilson disease	semapv:UnspecifiedMatching
+UMLS:C1527366	Salaam Seizures	skos:exactMatch	MONDO:0018097	infantile spasms	semapv:UnspecifiedMatching
+UMLS:C1527383	Morphea	skos:exactMatch	MONDO:0019562	localized scleroderma	semapv:UnspecifiedMatching
+UMLS:C1527390	Neoplasms, Intracranial	skos:closeMatch	MONDO:0021211	brain neoplasm	semapv:UnspecifiedMatching
+UMLS:C1527411	Thrombosis of retinal vein	skos:closeMatch	MONDO:0006951	retinal vein occlusion	semapv:UnspecifiedMatching
+UMLS:C1541844	PRESENILE AND SENILE DEMENTIA	skos:broadMatch	MONDO:0001627	dementia	semapv:UnspecifiedMatching
+UMLS:C1563730	Abdominal Cryptorchidism	skos:broadMatch	MONDO:0009047	cryptorchidism	semapv:UnspecifiedMatching
+UMLS:C1563731	Inguinal Cryptorchidism	skos:broadMatch	MONDO:0009047	cryptorchidism	semapv:UnspecifiedMatching
+UMLS:C1565662	Acute Kidney Insufficiency	skos:exactMatch	MONDO:0002492	acute kidney injury	semapv:UnspecifiedMatching
+UMLS:C1565951	Sphenoid Wing Meningioma	skos:broadMatch	MONDO:0016642	meningioma	semapv:UnspecifiedMatching
+UMLS:C1567257	Granulosa Cell Cancer	skos:exactMatch	MONDO:0020541	maligant granulosa cell tumor of ovary	semapv:UnspecifiedMatching
+UMLS:C1571984	Psychosis, Involutional	skos:broadMatch	MONDO:0005485	psychotic disorder	semapv:UnspecifiedMatching
+UMLS:C1622434	Suxamethonium sensitivity	skos:closeMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C1623038	Cirrhosis	skos:exactMatch	MONDO:0005155	cirrhosis of liver	semapv:UnspecifiedMatching
+UMLS:C1691228	Cystic Kidney Diseases	skos:exactMatch	MONDO:0002473	cystic kidney disease	semapv:UnspecifiedMatching
+UMLS:C1704230	Grade I Astrocytoma	skos:closeMatch	MONDO:0016691	pilocytic astrocytoma	semapv:UnspecifiedMatching
+UMLS:C1704377	Bright Disease	skos:closeMatch	MONDO:0002462	glomerulonephritis	semapv:UnspecifiedMatching
+UMLS:C1706412	Lipidemias	skos:exactMatch	MONDO:0021187	hyperlipidemia	semapv:UnspecifiedMatching
+UMLS:C1719672	Severe Sepsis	skos:broadMatch	MONDO:1040015	infectious disease with sepsis	semapv:UnspecifiedMatching
+UMLS:C1833102	DIABETES MELLITUS, PERMANENT NEONATAL, WITH NEUROLOGIC FEATURES	skos:broadMatch	MONDO:0100164	permanent neonatal diabetes mellitus	semapv:UnspecifiedMatching
+UMLS:C1833373	Inclusion Body Myopathy, Autosomal Recessive	skos:exactMatch	MONDO:0011603	GNE myopathy	semapv:UnspecifiedMatching
+UMLS:C1835614	Hereditary Hyperexplexia	skos:exactMatch	MONDO:0021022	hereditary hyperekplexia	semapv:UnspecifiedMatching
+UMLS:C1836182	Chondrodysplasia, acromesomelic, with genital anomalies	skos:exactMatch	MONDO:0012274	acromesomelic dysplasia 3	semapv:UnspecifiedMatching
+UMLS:C1838313	Pick Complex	skos:closeMatch	MONDO:0008243	Pick disease	semapv:UnspecifiedMatching
+UMLS:C1841739	ACTH-INDEPENDENT MACRONODULAR ADRENAL HYPERPLASIA, SOMATIC	skos:broadMatch	MONDO:0009049	Cushing syndrome due to macronodular adrenal hyperplasia	semapv:UnspecifiedMatching
+UMLS:C1842462	CAMPOMELIC DYSPLASIA WITH AUTOSOMAL SEX REVERSAL	skos:exactMatch	MONDO:0007251	campomelic dysplasia	semapv:UnspecifiedMatching
+UMLS:C1843014	Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Unusual Plaques	skos:broadMatch	MONDO:0011913	Alzheimer disease 3	semapv:UnspecifiedMatching
+UMLS:C1843015	Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia	skos:broadMatch	MONDO:0011913	Alzheimer disease 3	semapv:UnspecifiedMatching
+UMLS:C1849158	Insulin-Like Growth Factor I, Resistance to, due to Increased Binding Protein	skos:closeMatch	MONDO:0010038	growth delay due to insulin-like growth factor I resistance	semapv:UnspecifiedMatching
+UMLS:C1849695	Polycystic Ovarian Disease due to 17-Ketosteroid Reductase Deficiency	skos:closeMatch	MONDO:0009916	46,XY disorder of sex development due to 17-beta-hydroxysteroid dehydrogenase 3 deficiency	semapv:UnspecifiedMatching
+UMLS:C1851101	Laurin-Sandrow Syndrome, Segmental	skos:exactMatch	MONDO:0007615	laurin-Sandrow syndrome	semapv:UnspecifiedMatching
+UMLS:C1851957	Diffuse Lewy Body Disease with Gaze Palsy	skos:broadMatch	MONDO:0007488	Lewy body dementia	semapv:UnspecifiedMatching
+UMLS:C1851958	Lewy Body Variant of Alzheimer Disease	skos:closeMatch	MONDO:0007488	Lewy body dementia	semapv:UnspecifiedMatching
+UMLS:C1855520	Hyperglycemia, Postprandial	skos:broadMatch	MONDO:0002909	hyperglycemia	semapv:UnspecifiedMatching
+UMLS:C1855670	Abnormality of the cornea	skos:exactMatch	MONDO:0000942	corneal disorder	semapv:UnspecifiedMatching
+UMLS:C1856058	HOMOCYSTINURIA DUE TO DEFICIENCY OF N(5,10)-METHYLENETETRAHYDROFOLATE REDUCTASE ACTIVITY	skos:exactMatch	MONDO:0009353	homocystinuria due to methylene tetrahydrofolate reductase deficiency	semapv:UnspecifiedMatching
+UMLS:C1856059	Mthfr Deficiency, Thermolabile Type	skos:broadMatch	MONDO:0009353	homocystinuria due to methylene tetrahydrofolate reductase deficiency	semapv:UnspecifiedMatching
+UMLS:C1860789	Leukemia, Megakaryoblastic, of Down Syndrome	skos:exactMatch	MONDO:0020526	acute megakaryoblastic leukemia in down syndrome	semapv:UnspecifiedMatching
+UMLS:C1862556	Apolipoprotein E, Deficiency or Defect of	skos:narrowMatch	MONDO:0018473	hyperlipoproteinemia type 3	semapv:UnspecifiedMatching
+UMLS:C1862557	Dysbetalipoproteinemia due to Defect in Apolipoprotein E-d	skos:exactMatch	MONDO:0018473	hyperlipoproteinemia type 3	semapv:UnspecifiedMatching
+UMLS:C1862558	Familial Hyperbeta- and Prebetalipoproteinemia	skos:exactMatch	MONDO:0018473	hyperlipoproteinemia type 3	semapv:UnspecifiedMatching
+UMLS:C1862560	Hyperlipemia with Familial Hypercholesterolemic Xanthomatosis	skos:exactMatch	MONDO:0018473	hyperlipoproteinemia type 3	semapv:UnspecifiedMatching
+UMLS:C1862562	Floating-Betalipoproteinemia	skos:exactMatch	MONDO:0018473	hyperlipoproteinemia type 3	semapv:UnspecifiedMatching
+UMLS:C1863053	Alzheimer Disease, Early-Onset, With Cerebral Amyloid Angiopathy	skos:closeMatch	MONDO:0007088	Alzheimer disease type 1	semapv:UnspecifiedMatching
+UMLS:C1866282	CEROID LIPOFUSCINOSIS, NEURONAL, 6	skos:exactMatch	MONDO:0011144	ceroid lipofuscinosis, neuronal, 6A	semapv:UnspecifiedMatching
+UMLS:C1866560	IRIDOGONIODYSGENESIS, TYPE 1 (disorder)	skos:exactMatch	MONDO:0024456	anterior segment dysgenesis 3	semapv:UnspecifiedMatching
+UMLS:C1866561	Glaucoma Iridogoniodysplasia, Familial	skos:exactMatch	MONDO:0024456	anterior segment dysgenesis 3	semapv:UnspecifiedMatching
+UMLS:C1867467	Acholinesterasemia	skos:exactMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C1867468	Apnea, Postanesthetic	skos:closeMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C1867469	Butyrylcholinesterase Deficiency, Fluoride-Resistant, Japanese Type	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C1867470	Hypocholinesterasemia, Fluoride-Resistant, Japanese Type	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C1868596	Atypical Parkinson Disease	skos:broadMatch	MONDO:0021095	parkinsonian disorder	semapv:UnspecifiedMatching
+UMLS:C1876165	Copper-Overload Cirrhosis	skos:closeMatch	MONDO:0016204	idiopathic copper-associated cirrhosis	semapv:UnspecifiedMatching
+UMLS:C1879312	Agyria	skos:exactMatch	MONDO:0018838	lissencephaly spectrum disorders	semapv:UnspecifiedMatching
+UMLS:C1955869	Malformations of Cortical Development	skos:exactMatch	MONDO:0017094	cerebral cortical dysplasia	semapv:UnspecifiedMatching
+UMLS:C1956130	Lymphoma, Follicular, Grade 1	skos:broadMatch	MONDO:0018906	follicular lymphoma	semapv:UnspecifiedMatching
+UMLS:C1956131	Lymphoma, Follicular, Grade 3	skos:broadMatch	MONDO:0018906	follicular lymphoma	semapv:UnspecifiedMatching
+UMLS:C1956132	Lymphoma, Follicular, Grade 2	skos:broadMatch	MONDO:0018906	follicular lymphoma	semapv:UnspecifiedMatching
+UMLS:C1956349	Cerebral Amyloid Angiopathy, Genetic	skos:broadMatch	MONDO:0005620	cerebral amyloid angiopathy	semapv:UnspecifiedMatching
+UMLS:C1959583	Myocardial Failure	skos:exactMatch	MONDO:0005252	heart failure	semapv:UnspecifiedMatching
+UMLS:C1961102	Precursor Cell Lymphoblastic Leukemia Lymphoma	skos:exactMatch	MONDO:0003538	precursor lymphoblastic lymphoma/leukemia	semapv:UnspecifiedMatching
+UMLS:C1968699	Hypothyroidism, Thyroidal, With Spiky Hair And Cleft Palate	skos:exactMatch	MONDO:0009437	Bamforth-Lazarus syndrome	semapv:UnspecifiedMatching
+UMLS:C1969761	SEX CORD STROMAL TUMOR, SOMATIC	skos:exactMatch	MONDO:0006055	sex cord-stromal tumor	semapv:UnspecifiedMatching
+UMLS:C1969957	Creutzfeldt-Jakob Disease, Heidenhain Variant	skos:broadMatch	MONDO:0016079	sporadic Creutzfeldt-Jakob disease	semapv:UnspecifiedMatching
+UMLS:C1970035	PARKINSON DISEASE 6, LATE-ONSET, SUSCEPTIBILITY TO	skos:closeMatch	MONDO:0011613	autosomal recessive early-onset Parkinson disease 6	semapv:UnspecifiedMatching
+UMLS:C2063866	Depressive Disorder, Treatment-Resistant	skos:broadMatch	MONDO:0002009	major depressive disorder	semapv:UnspecifiedMatching
+UMLS:C2350037	Clinically Isolated Syndrome, CNS Demyelinating	skos:broadMatch	MONDO:0020800	demyelinating disease of central nervous system	semapv:UnspecifiedMatching
+UMLS:C2350873	Beryllium Disease	skos:exactMatch	MONDO:0015274	chronic beryllium disease	semapv:UnspecifiedMatching
+UMLS:C2350878	Focal Emphysema	skos:broadMatch	MONDO:0004849	pulmonary emphysema	semapv:UnspecifiedMatching
+UMLS:C2362914	clinical depression	skos:closeMatch	MONDO:0002009	major depressive disorder	semapv:UnspecifiedMatching
+UMLS:C2675383	POLYOSTOTIC FIBROUS DYSPLASIA, SOMATIC, MOSAIC	skos:exactMatch	MONDO:0008274	polyostotic fibrous dysplasia	semapv:UnspecifiedMatching
+UMLS:C2676833	MICROVASCULAR COMPLICATIONS OF DIABETES, SUSCEPTIBILITY TO	skos:exactMatch	MONDO:0000065	microvascular complications of diabetes, susceptibility	semapv:UnspecifiedMatching
+UMLS:C2676835	NEPHROPATHY, DIABETIC, SUSCEPTIBILITY TO (finding)	skos:broadMatch	MONDO:0000065	microvascular complications of diabetes, susceptibility	semapv:UnspecifiedMatching
+UMLS:C2676836	END-STAGE RENAL DISEASE, DIABETIC, SUSCEPTIBILITY TO (finding)	skos:broadMatch	MONDO:0000065	microvascular complications of diabetes, susceptibility	semapv:UnspecifiedMatching
+UMLS:C2676837	PROLIFERATIVE RETINOPATHY, DIABETIC, SUSCEPTIBILITY TO (finding)	skos:broadMatch	MONDO:0000065	microvascular complications of diabetes, susceptibility	semapv:UnspecifiedMatching
+UMLS:C2676838	NONPROLIFERATIVE RETINOPATHY, DIABETIC, SUSCEPTIBILITY TO (finding)	skos:broadMatch	MONDO:0000065	microvascular complications of diabetes, susceptibility	semapv:UnspecifiedMatching
+UMLS:C2676839	NEUROPATHY, DIABETIC, SUSCEPTIBILITY TO	skos:broadMatch	MONDO:0000065	microvascular complications of diabetes, susceptibility	semapv:UnspecifiedMatching
+UMLS:C2677713	Ichthyosis, X-Linked, Complicated	skos:closeMatch	MONDO:0017264	syndromic recessive X-linked ichthyosis	semapv:UnspecifiedMatching
+UMLS:C2678367	Renal Tubular Dysgenesis With Choanal Atresia And Athelia	skos:broadMatch	MONDO:0009970	renal tubular dysgenesis of genetic origin	semapv:UnspecifiedMatching
+UMLS:C2713368	Hematopoetic Myelodysplasia	skos:exactMatch	MONDO:0018881	myelodysplastic syndrome	semapv:UnspecifiedMatching
+UMLS:C2713447	Hyperpotassemia and Hypertension, Familial	skos:exactMatch	MONDO:0019162	pseudohypoaldosteronism type 2	semapv:UnspecifiedMatching
+UMLS:C2717836	Steroid Sulfatase Deficiency Disease	skos:exactMatch	MONDO:0010622	recessive X-linked ichthyosis	semapv:UnspecifiedMatching
+UMLS:C2720163	Placental Steroid Sulfatase Deficiency	skos:closeMatch	MONDO:0010622	recessive X-linked ichthyosis	semapv:UnspecifiedMatching
+UMLS:C2750825	NONPAPILLARY RENAL CARCINOMA 1 LOCUS	skos:exactMatch	MONDO:0007763	nonpapillary renal cell carcinoma	semapv:UnspecifiedMatching
+UMLS:C2930471	Bilateral Wilms Tumor	skos:broadMatch	MONDO:0006058	Wilms tumor	semapv:UnspecifiedMatching
+UMLS:C2930617	Pulmonary Fibrosis - from Asbestos Exposure	skos:exactMatch	MONDO:0016466	asbestosis	semapv:UnspecifiedMatching
+UMLS:C2930618	Intersex Conditions	skos:exactMatch	MONDO:0002145	disorder of sexual differentiation	semapv:UnspecifiedMatching
+UMLS:C2931022	Amyloidosis, Cerebral, with Spongiform Encephalopathy	skos:exactMatch	MONDO:0007656	Gerstmann-Straussler-Scheinker syndrome	semapv:UnspecifiedMatching
+UMLS:C2931367	Thyroid cancer, follicular	skos:exactMatch	MONDO:0005034	thyroid gland follicular carcinoma	semapv:UnspecifiedMatching
+UMLS:C2931779	Congenital defect of skull and scalp	skos:closeMatch	MONDO:0007145	aplasia cutis congenita	semapv:UnspecifiedMatching
+UMLS:C2931852	Clear-cell metastatic renal cell carcinoma	skos:broadMatch	MONDO:0005005	clear cell renal carcinoma	semapv:UnspecifiedMatching
+UMLS:C2936664	Acquired Hypogammaglobulinemia	skos:closeMatch	MONDO:0015517	common variable immunodeficiency	semapv:UnspecifiedMatching
+UMLS:C2936665	Immunoglobulin Deficiency, Late-Onset	skos:exactMatch	MONDO:0015517	common variable immunodeficiency	semapv:UnspecifiedMatching
+UMLS:C2936816	Micromelic dysplasia, congenital, with dislocation of radius	skos:exactMatch	MONDO:0009779	autosomal recessive omodysplasia	semapv:UnspecifiedMatching
+UMLS:C2936913	Porphyria, South African type	skos:broadMatch	MONDO:0019142	inherited porphyria	semapv:UnspecifiedMatching
+UMLS:C2973787	Coxiella burnetii Infection	skos:exactMatch	MONDO:0019186	Q fever	semapv:UnspecifiedMatching
+UMLS:C3152083	EPIPHYSEAL DYSPLASIA, MULTIPLE, 3, WITH MYOPATHY	skos:exactMatch	MONDO:0010964	epiphyseal dysplasia, multiple, 3	semapv:UnspecifiedMatching
+UMLS:C3203356	Factor II deficiency	skos:exactMatch	MONDO:0013361	congenital prothrombin deficiency	semapv:UnspecifiedMatching
+UMLS:C3263723	Traumatic injury	skos:exactMatch	MONDO:0021178	injury	semapv:UnspecifiedMatching
+UMLS:C3489396	Hypogonadism, Isolated Hypogonadotropic	skos:exactMatch	MONDO:0016553	isolated congenital hypogonadotropic hypogonadism	semapv:UnspecifiedMatching
+UMLS:C3489630	Somatotrophinoma, Familial	skos:broadMatch	MONDO:0006238	growth hormone-producing pituitary gland adenoma	semapv:UnspecifiedMatching
+UMLS:C3489728	Familial intrahepatic cholestasis of pregnancy	skos:broadMatch	MONDO:0100429	intrahepatic cholestasis of pregnancy	semapv:UnspecifiedMatching
+UMLS:C3494247	Organothiophosphonate Poisoning	skos:broadMatch	MONDO:0029000	poisoning	semapv:UnspecifiedMatching
+UMLS:C3494248	Organothiophosphate Poisoning	skos:broadMatch	MONDO:0029000	poisoning	semapv:UnspecifiedMatching
+UMLS:C3495489	Rieger eye malformation sequence	skos:exactMatch	MONDO:0019628	Rieger anomaly	semapv:UnspecifiedMatching
+UMLS:C3496069	cocaine use	skos:narrowMatch	MONDO:0004456	cocaine abuse	semapv:UnspecifiedMatching
+UMLS:C3496549	Male Germ Cell Tumor	skos:narrowMatch	MONDO:0010108	testicular germ cell tumor	semapv:UnspecifiedMatching
+UMLS:C3549544	ACAMPOMELIC CAMPOMELIC DYSPLASIA WITH AUTOSOMAL SEX REVERSAL	skos:broadMatch	MONDO:0007251	campomelic dysplasia	semapv:UnspecifiedMatching
+UMLS:C3658290	Drug-Induced Acute Liver Injury	skos:broadMatch	MONDO:0005359	drug-induced liver injury	semapv:UnspecifiedMatching
+UMLS:C3658299	Zellweger Spectrum	skos:exactMatch	MONDO:0019609	Zellweger spectrum disorders	semapv:UnspecifiedMatching
+UMLS:C3658301	Mycoplasma-Induced Stevens-Johnson Syndrome	skos:broadMatch	MONDO:0018229	Stevens-Johnson syndrome	semapv:UnspecifiedMatching
+UMLS:C3658302	Stevens-Johnson Syndrome Toxic Epidermal Necrolysis Spectrum	skos:narrowMatch	MONDO:0018229	Stevens-Johnson syndrome	semapv:UnspecifiedMatching
+UMLS:C3661489	Autosomal Dominant Myotubular Myopathy	skos:exactMatch	MONDO:0008048	autosomal dominant centronuclear myopathy	semapv:UnspecifiedMatching
+UMLS:C3714514	Infection	skos:exactMatch	MONDO:0005550	infectious disease	semapv:UnspecifiedMatching
+UMLS:C3805278	Extrahepatic Cholangiocarcinoma	skos:broadMatch	MONDO:0019087	cholangiocarcinoma	semapv:UnspecifiedMatching
+UMLS:C3805618	CEREBRAL AMYLOID ANGIOPATHY, PRNP-RELATED	skos:closeMatch	MONDO:0007656	Gerstmann-Straussler-Scheinker syndrome	semapv:UnspecifiedMatching
+UMLS:C3887633	Dandy-Walker Syndrome, Familial	skos:broadMatch	MONDO:0009072	Dandy-Walker syndrome	semapv:UnspecifiedMatching
+UMLS:C3888097	CATARACT 21, MULTIPLE TYPES	skos:exactMatch	MONDO:0012437	cataract 21 multiple types	semapv:UnspecifiedMatching
+UMLS:C3889586	BCHE, FLUORIDE 1 PHENOTYPE	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C3889588	BCHE, FLUORIDE 2 PHENOTYPE	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C3889589	BCHE, K VARIANT PHENOTYPE	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C3889591	BCHE, J VARIANT PHENOTYPE	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C3889592	BCHE, H VARIANT PHENOTYPE	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C3889596	BCHE NEWFOUNDLAND PHENOTYPE	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C3889604	BCHE, SILENT 1 PHENOTYPE	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C3889605	BCHE CYNTHIANA PHENOTYPE	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C3889606	BCHE JOHANNESBURG PHENOTYPE	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C3891815	Arthritis, Suppurative	skos:broadMatch	MONDO:0042485	infective arthritis	semapv:UnspecifiedMatching
+UMLS:C4016139	MCCUNE-ALBRIGHT SYNDROME, SOMATIC, MOSAIC	skos:exactMatch	MONDO:0018919	McCune-Albright syndrome	semapv:UnspecifiedMatching
+UMLS:C4016140	PSEUDOHYPOPARATHYROIDISM, TYPE IA, WITH TESTOTOXICOSIS	skos:broadMatch	MONDO:0007078	pseudohypoparathyroidism type 1A	semapv:UnspecifiedMatching
+UMLS:C4016356	APNEA, POSTANESTHETIC, DUE TO BCHE, ATYPICAL-1	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C4017543	BCHE, DIBUCAINE-RESISTANT I PHENOTYPE	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C4017545	BCHE*70G PHENOTYPE	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C4017546	BCHE ANN ARBOR PHENOTYPE	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C4017548	BCHE*FS117 PHENOTYPE	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C4017549	BCHE, FLUORIDE-RESISTANT I PHENOTYPE	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C4017551	BCHE*243M PHENOTYPE	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C4017552	BCHE, FLUORIDE-RESISTANT II PHENOTYPE	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C4017554	BCHE*390V PHENOTYPE	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C4017555	BCHE, QUANTITATIVE K POLYMORPHISM PHENOTYPE	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C4017557	BCHE*539T PHENOTYPE	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C4017558	BCHE, QUANTITATIVE J VARIANT PHENOTYPE	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C4017559	BCHE, QUANTITATIVE H VARIANT PHENOTYPE	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C4017560	BCHE*FS126 PHENOTYPE	skos:broadMatch	MONDO:0015270	butyrylcholinesterase deficiency	semapv:UnspecifiedMatching
+UMLS:C4025414	Radial club hand	skos:exactMatch	MONDO:0019671	radial hemimelia	semapv:UnspecifiedMatching
+UMLS:C4041080	Neurocognitive Disorders	skos:closeMatch	MONDO:0002039	cognitive disorder	semapv:UnspecifiedMatching
+UMLS:C4046002	Research-Related Injuries	skos:broadMatch	MONDO:0021178	injury	semapv:UnspecifiedMatching
+UMLS:C4082305	Deaf Mutism	skos:broadMatch	MONDO:0005365	hearing loss disorder	semapv:UnspecifiedMatching
+UMLS:C4274355	Autosomal dominant late onset Parkinson disease	skos:broadMatch	MONDO:0008199	late-onset Parkinson disease	semapv:UnspecifiedMatching
+UMLS:C4277682	Chemical and Drug Induced Liver Injury	skos:exactMatch	MONDO:0005359	drug-induced liver injury	semapv:UnspecifiedMatching
+UMLS:C4279912	Chemically-Induced Liver Toxicity	skos:closeMatch	MONDO:0005359	drug-induced liver injury	semapv:UnspecifiedMatching
+UMLS:C4316791	Entamoeba histolytica Infection	skos:exactMatch	MONDO:0019028	amoebiasis due to Entamoeba histolytica	semapv:UnspecifiedMatching
+UMLS:C4316881	Prescription Drug Abuse	skos:broadMatch	MONDO:0002491	substance abuse	semapv:UnspecifiedMatching
+UMLS:C4317109	Epileptic Seizures	skos:closeMatch	MONDO:0005027	epilepsy	semapv:UnspecifiedMatching
+UMLS:C4505456	HIV Coinfection	skos:broadMatch	MONDO:0005109	HIV infectious disease	semapv:UnspecifiedMatching
+UMLS:C4540534	PITUITARY ADENOMA 3, MULTIPLE TYPES, SOMATIC	skos:exactMatch	MONDO:0054665	pituitary adenoma 3, multiple types	semapv:UnspecifiedMatching
+UMLS:C4540535	PITUITARY ADENOMA 3, ACTH-SECRETING, SOMATIC	skos:broadMatch	MONDO:0006068	ACTH-producing pituitary gland adenoma	semapv:UnspecifiedMatching
+UMLS:C4540536	PITUITARY TUMOR 3, GROWTH HORMONE-SECRETING, SOMATIC	skos:broadMatch	MONDO:0006238	growth hormone-producing pituitary gland adenoma	semapv:UnspecifiedMatching
+UMLS:C4540602	PITUITARY ADENOMA 3, GROWTH HORMONE-SECRETING, SOMATIC	skos:broadMatch	MONDO:0006238	growth hormone-producing pituitary gland adenoma	semapv:UnspecifiedMatching

@@ -1,0 +1,251 @@
+{
+  "export": "/home/benjamin/.local/share/vault-bio/eval/exports/final-2026-10-29/published",
+  "profiles": [
+    "publication (abstracts without-text)"
+  ],
+  "at": "2026-10-30T23:52:26.892Z",
+  "grounded": {
+    "nodes": 15414,
+    "edges": 45782,
+    "publication": {
+      "edges": {
+        "before": 69998,
+        "after": 45782
+      },
+      "nodes": {
+        "before": 21147,
+        "after": 15414
+      },
+      "structured": {
+        "infores:goa by": {
+          "class": "by",
+          "kept": 11354,
+          "out": 0
+        },
+        "infores:pharos unclear": {
+          "class": "unclear",
+          "kept": 0,
+          "out": 8576
+        },
+        "infores:kegg restricted": {
+          "class": "restricted",
+          "kept": 0,
+          "out": 1595
+        },
+        "infores:chembl by-sa": {
+          "class": "by-sa",
+          "kept": 0,
+          "out": 2279
+        },
+        "infores:mondo by": {
+          "class": "by",
+          "kept": 4742,
+          "out": 0
+        },
+        "infores:string by": {
+          "class": "by",
+          "kept": 13157,
+          "out": 0
+        },
+        "infores:monarchinitiative unclear": {
+          "class": "unclear",
+          "kept": 0,
+          "out": 490
+        },
+        "infores:reactome by": {
+          "class": "by",
+          "kept": 5236,
+          "out": 0
+        },
+        "infores:disgenet unclear": {
+          "class": "unclear",
+          "kept": 0,
+          "out": 5528
+        },
+        "infores:ctd restricted": {
+          "class": "restricted",
+          "kept": 0,
+          "out": 2964
+        },
+        "infores:uniprot by": {
+          "class": "by",
+          "kept": 464,
+          "out": 0
+        },
+        "infores:eram unclear": {
+          "class": "unclear",
+          "kept": 0,
+          "out": 901
+        },
+        "infores:tiga unclear": {
+          "class": "unclear",
+          "kept": 0,
+          "out": 429
+        },
+        "infores:librisvault unclear": {
+          "class": "unclear",
+          "kept": 0,
+          "out": 516
+        },
+        "infores:wikipathways by": {
+          "class": "by",
+          "kept": 2155,
+          "out": 0
+        },
+        "infores:medlineplus public-domain": {
+          "class": "public-domain",
+          "kept": 167,
+          "out": 0
+        },
+        "infores:amyco unclear": {
+          "class": "unclear",
+          "kept": 0,
+          "out": 60
+        },
+        "infores:diseases by-sa": {
+          "class": "by-sa",
+          "kept": 0,
+          "out": 783
+        },
+        "infores:hpo-annotations unclear": {
+          "class": "unclear",
+          "kept": 0,
+          "out": 95
+        }
+      },
+      "literature": {
+        "open": 8244,
+        "restricted": 0,
+        "withoutLicence": {
+          "kept": 263,
+          "textRemoved": 263,
+          "out": 0
+        },
+        "unknownPage": 0
+      },
+      "abstracts": "without-text"
+    }
+  },
+  "full": {
+    "nodes": 15811,
+    "edges": 46721,
+    "publication": {
+      "edges": {
+        "before": 70937,
+        "after": 46721
+      },
+      "nodes": {
+        "before": 21641,
+        "after": 15811
+      },
+      "structured": {
+        "infores:goa by": {
+          "class": "by",
+          "kept": 11354,
+          "out": 0
+        },
+        "infores:pharos unclear": {
+          "class": "unclear",
+          "kept": 0,
+          "out": 8576
+        },
+        "infores:kegg restricted": {
+          "class": "restricted",
+          "kept": 0,
+          "out": 1595
+        },
+        "infores:chembl by-sa": {
+          "class": "by-sa",
+          "kept": 0,
+          "out": 2279
+        },
+        "infores:mondo by": {
+          "class": "by",
+          "kept": 4742,
+          "out": 0
+        },
+        "infores:string by": {
+          "class": "by",
+          "kept": 13157,
+          "out": 0
+        },
+        "infores:monarchinitiative unclear": {
+          "class": "unclear",
+          "kept": 0,
+          "out": 490
+        },
+        "infores:reactome by": {
+          "class": "by",
+          "kept": 5236,
+          "out": 0
+        },
+        "infores:disgenet unclear": {
+          "class": "unclear",
+          "kept": 0,
+          "out": 5528
+        },
+        "infores:ctd restricted": {
+          "class": "restricted",
+          "kept": 0,
+          "out": 2964
+        },
+        "infores:uniprot by": {
+          "class": "by",
+          "kept": 464,
+          "out": 0
+        },
+        "infores:eram unclear": {
+          "class": "unclear",
+          "kept": 0,
+          "out": 901
+        },
+        "infores:tiga unclear": {
+          "class": "unclear",
+          "kept": 0,
+          "out": 429
+        },
+        "infores:librisvault unclear": {
+          "class": "unclear",
+          "kept": 0,
+          "out": 516
+        },
+        "infores:wikipathways by": {
+          "class": "by",
+          "kept": 2155,
+          "out": 0
+        },
+        "infores:medlineplus public-domain": {
+          "class": "public-domain",
+          "kept": 167,
+          "out": 0
+        },
+        "infores:amyco unclear": {
+          "class": "unclear",
+          "kept": 0,
+          "out": 60
+        },
+        "infores:diseases by-sa": {
+          "class": "by-sa",
+          "kept": 0,
+          "out": 783
+        },
+        "infores:hpo-annotations unclear": {
+          "class": "unclear",
+          "kept": 0,
+          "out": 95
+        }
+      },
+      "literature": {
+        "open": 9180,
+        "restricted": 0,
+        "withoutLicence": {
+          "kept": 266,
+          "textRemoved": 266,
+          "out": 0
+        },
+        "unknownPage": 0
+      },
+      "abstracts": "without-text"
+    }
+  }
+}
